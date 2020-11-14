@@ -49,7 +49,7 @@
             "author": "",
             "imageUrl": "https://images.unsplash.com/photo-1510133768164-a8f7e4d4e3dc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
             "url": "https://gist.githubusercontent.com/BilelJegham/b6a0faa627aac3b7f5bc677523c4c7eb/raw/2e710e5c0b457131a9cb28674507d8725c7de40d/hard.geojson"
-        }      
+        },      
         {
             "name": {
                "en": "French stations 🇫🇷",
@@ -59,10 +59,10 @@
                 "fr": "La liste des gares de voyageurs française",
                 "en": "The list of French passenger stations"
             },
-            "author": "",
+            "author": "BilelJegham",
             "imageUrl": "https://images.unsplash.com/photo-1585304999403-daecd24e88b0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
             "url": "https://gist.githubusercontent.com/BilelJegham/891f976fac2017ae19e699991aba4f01/raw/19bfe072be8762e93142b56eddecf83b967f7d9d/referentiel-gares-voyageurs-min.geojson"
-        },
+        }
     ]
 
 
