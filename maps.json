@@ -63,6 +63,20 @@
             "imageUrl": "https://images.unsplash.com/photo-1585304999403-daecd24e88b0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
             "url": "https://gist.githubusercontent.com/BilelJegham/891f976fac2017ae19e699991aba4f01/raw/19bfe072be8762e93142b56eddecf83b967f7d9d/referentiel-gares-voyageurs-min.geojson"
         }
+        {
+            "name": {
+               "en": "German stations 🇩🇪",
+               "fr": "Gares allemandes 🇩🇪"
+            },
+            "description": {
+                "fr": "Gares allemandes",
+                "en": "German train stations."
+            },
+            "author": "wlanowski, Geodata by Deutsche Bahn AG (CC-BY 4.0)",
+            "imageUrl": "https://images.unsplash.com/photo-1564932071257-a68c88baf3cd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=2300",
+            "url": "https://raw.githubusercontent.com/wlanowski/geoguess-maps/master/german-train-stations/german-train-stations.min.geojson"
+        }
+        
     ]
 
 
