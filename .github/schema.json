@@ -1,0 +1,29 @@
+{
+    "type": "object",
+    "properties": {
+        "maps": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "type": ["string", "object"]
+                    },
+                    "description": {
+                        "type": ["string", "object"]
+                    },
+                    "author": {
+                        "type": "string"
+                    },
+                    "imageUrl": {
+                        "type": "string"
+                    },
+                    "url": {
+                        "type": "string"
+                    }
+                }
+            }
+        }
+    }
+
+}
