@@ -74,7 +74,7 @@
             },
             "author": "wlanowski, Geodata by Deutsche Bahn AG (CC-BY 4.0)",
             "imageUrl": "https://images.unsplash.com/photo-1564932071257-a68c88baf3cd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
-            "url": "https://raw.githubusercontent.com/wlanowski/geoguess-maps/master/german-train-stations/german-train-stations.min.geojson"
+            "url": "https://raw.githubusercontent.com/wlanowski/wlanowskis-maps-for-geoguess/main/german-train-stations/german-train-stations.min.geojson"
         }
         
     ]
