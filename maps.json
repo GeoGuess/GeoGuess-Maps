@@ -140,6 +140,19 @@
             "author": "wlanowski, Geodata by jocialmedia (CC-BY-SA)",
             "imageUrl": "https://images.unsplash.com/photo-1540021755796-56b8b27128f8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
             "url": "https://raw.githubusercontent.com/wlanowski/wlanowskis-maps-for-geoguess/main/german-football-stadiums/german-football-stadiums.min.geojson"
-        }        
+        },
+	    {
+            "name": {
+               "en": "Nordic vibes",
+               "fr": "Ambiance nordique"
+            },
+            "description": {
+                "fr": "Balade dans les pays nordiques (Finlande, Suède, Danemark, Norvège, Îles Féroé, Islande)",
+                "en": "Walk in the Nordic countries (Finland, Sweden, Denmark, Norway, Faroe Islands, Iceland)"
+            },
+            "author": "Dimoushh",
+            "imageUrl": "https://images.unsplash.com/photo-1446419385500-203d54c0c460?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
+            "url": "https://raw.githubusercontent.com/dimfort/content/main/nordicarea.geojson"
+        }
     ]
 }
