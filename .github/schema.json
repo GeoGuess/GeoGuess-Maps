@@ -45,7 +45,10 @@
             "type": "object",
             "properties": {
               "bbox": {
-                "type": "string"
+                "type": "array",
+                "items": {
+                  "type": "number"
+                }
               },
               "urlArea": {
                 "type": "string"
