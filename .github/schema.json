@@ -1,29 +1,75 @@
 {
-    "type": "object",
-    "properties": {
-        "maps": {
-            "type": "array",
-            "items": {
-                "type": "object",
-                "properties": {
-                    "name": {
-                        "type": ["string", "object"]
-                    },
-                    "description": {
-                        "type": ["string", "object"]
-                    },
-                    "author": {
-                        "type": "string"
-                    },
-                    "imageUrl": {
-                        "type": "string"
-                    },
-                    "url": {
-                        "type": "string"
-                    }
-                }
-            }
+  "type": "object",
+  "properties": {
+    "maps": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": ["string", "object"]
+          },
+          "description": {
+            "type": ["string", "object"]
+          },
+          "author": {
+            "type": "string"
+          },
+          "imageUrl": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          }
         }
+      }
+    },
+    "areas": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": ["string", "object"]
+          },
+          "description": {
+            "type": ["string", "object"]
+          },
+          "author": {
+            "type": "string"
+          },
+          "imageUrl": {
+            "type": "string"
+          },
+          "data": {
+            "type": "object",
+            "properties": {
+              "bbox": {
+                "type": "array",
+                "items": {
+                  "type": "number"
+                }
+              },
+              "urlArea": {
+                "type": "string"
+              },
+              "type": {
+                "type": "string",
+                "pattern": "polygon|nominatim"
+              },
+              "pathKey": {
+                "type": "string"
+              },
+              "nominatimResultPath": {
+                "type": "string"
+              },
+              "nominatimQueryParams": {
+                "type": "object"
+              }
+            }
+          }
+        }
+      }
     }
-
+  }
 }
