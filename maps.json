@@ -210,9 +210,9 @@
       "name": "Continent",
       "author": "BilelJegham",
       "data": {
-        "urlArea": "https://gist.githubusercontent.com/hrbrmstr/91ea5cc9474286c72838/raw/59421ff9b268ff0929b051ddafafbeb94a4c1910/continents.json",
+        "urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/areas/continents.json",
         "type": "polygon",
-        "pathKey": "CONTINENT"
+        "pathKey": "continent"
       }
     }
   ]
