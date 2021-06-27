@@ -156,7 +156,10 @@
   ],
   "areas": [
     {
-      "name": "France Régions",
+      "name": {
+        "fr":"France Régions",
+        "en":"France Region"
+      },
       "author": "BilelJegham, gregoiredavid",
       "data": {
         "bbox": [-5.4517733, 41.2611155, 9.8282225, 51.3055721],
@@ -172,7 +175,10 @@
       }
     },
     {
-      "name": "France Départements",
+      "name": {
+        "fr":"France Départements",
+        "en":"France County"
+      },
       "author": "BilelJegham, gregoiredavid",
       "data": {
         "bbox": [-5.4517733, 41.2611155, 9.8282225, 51.3055721],
@@ -188,7 +194,10 @@
       }
     },
     {
-      "name": "US States",
+      "name": {
+        "en": "États des États-Unis",
+        "en": "US States"
+      }
       "author": "BilelJegham",
       "data": {
         "bbox": [
