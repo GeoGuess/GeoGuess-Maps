@@ -226,7 +226,7 @@
 					7.5219807,
 					11.8801133
 				],
-				"urlArea": "https://raw.githubusercontent.com/martynafford/natural-earth-geojson/master/110m/cultural/ne_110m_admin_1_states_provinces.json",
+				"urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/areas/tunisiaGouvernorat.geojson",
 				"type": "nominatim",
 				"pathKey": "gouvernorat_fr",
 				"nominatimResultPath": "address.state",
