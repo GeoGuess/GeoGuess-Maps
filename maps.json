@@ -238,6 +238,18 @@
 			}
 		},
 		{
+			"name": {
+				"fr": "Quatiers de Nantes Métropole France",
+				"en": "District of Nantes, France"
+			},
+			"author": "BilelJegham, data.nantesmetropole.fr",
+			"data": {
+				"urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/areas/frNantesMetropolisDistrict.geojson",
+				"type": "polygon",
+				"pathKey": "nom"
+			}
+		},
+		{
 			"name": "Continent",
 			"author": "BilelJegham",
 			"data": {
