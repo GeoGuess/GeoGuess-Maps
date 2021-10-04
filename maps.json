@@ -244,6 +244,7 @@
 			},
 			"author": "BilelJegham, data.nantesmetropole.fr",
 			"data": {
+				"bbox": [-1.6418115,47.1805856,-1.4788443,47.2958583]
 				"urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/areas/frNantesMetropolisDistrict.geojson",
 				"type": "polygon",
 				"pathKey": "nom"
