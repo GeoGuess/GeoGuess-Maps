@@ -1,0 +1,71 @@
+{
+    "maps": {
+        "unesco": {
+            "name": "Unesco : Liste du patrimoine mondial"
+        },
+        "europe": {
+            "name": "Europe",
+            "description": "Europe sans la russie"
+        },
+        "biggest-cities": {
+            "name": "Grande Villes",
+            "description": "Une liste de plus de 40 villes : PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+        },
+        "small-powerful": {
+            "name": "Petit mais puissant",
+            "description": "Cette carte est conçue pour ajouter de la variété au jeu de Geoguess en excluant les grandes nations. L'Australie, le Brésil, le Canada, la Chine, la Russie et les États-Unis d'Amérique ne sont pas inclus."
+        },
+        "urban": {
+            "name": "Monde Urbain",
+            "description": "Zone à forte densité d'habitation. Dérivé des données satellites MODIS 2002-2003."
+        },
+        "inferno": {
+            "name": "Inferno",
+            "description": "2 villes trés complexes 😵 : Santa Cruz de la Sierre (Bolivia) & Touba (Senegal)"
+        },
+        "french-stations": {
+            "name": "Gares françaises 🇫🇷",
+            "description": "La liste des gares de voyageurs française"
+        },
+        "german-stations": {
+            "name": "Gares allemandes 🇩🇪",
+            "description": "Gares de train allemandes"
+        },
+        "german-level-crossings": {
+            "name": "Passages à niveau allemands  🇩🇪",
+            "description": "Passages à niveau allemands "
+        },
+        "big-airports": {
+            "name": "Grand aéroports ✈️",
+            "description": "Cette carte contient les plus grands aéroports (> 600) du monde."
+        },
+        "german-football-stadiums": {
+            "name": "Stades de football allemands ⚽",
+            "description": "Stades de football allemands pour les clubs de la première (Bundesliga) à la quatrième (Regionalliga) ligues"
+        },
+        "nordic-vibes": {
+            "name": "Ambiance nordique",
+            "description": "Balade dans les pays nordiques (Finlande, Suède, Danemark, Norvège, Îles Féroé, Islande)"
+        }
+    },
+    "areas": {
+        "france-region": {
+            "name": "France Régions"
+        },
+        "france-county": {
+            "name": "France Départements"
+        },
+        "usa-state": {
+            "name": "États des États-Unis"
+        },
+        "tunisia-gouvenorate": {
+            "name": "Tunisie Gouvernorat"
+        },
+        "nantes": {
+            "name": "Quatiers de Nantes Métropole France"
+        },
+        "continent": {
+            "name": "Continent"
+        }
+    }
+}
