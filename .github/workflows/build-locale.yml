@@ -4,7 +4,7 @@ name: Crowdin Action
 on:
   push:
     branches: 
-      - i10n_master 
+      - I10n_master 
     paths:
       - src/locale/**
 
