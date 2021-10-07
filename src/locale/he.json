@@ -1,77 +1,77 @@
 {
   "maps": {
     "unesco": {
-      "name": "",
+      "name": "Unesco : World Heritage List",
       "description": ""
     },
     "europe": {
-      "name": "",
-      "description": ""
+      "name": "Europe",
+      "description": "Europe without Russia"
     },
     "biggest-cities": {
-      "name": "",
-      "description": ""
+      "name": "Biggest City",
+      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
     },
     "small-powerful": {
-      "name": "",
-      "description": ""
+      "name": "Small But Powerful",
+      "description": "This map is designed to add variety to the game of Geoguess by leaving out large nations. Australia, Brasil, Canada, China, Russia and United States of America are not included."
     },
     "urban": {
-      "name": "",
-      "description": ""
+      "name": "Urban World",
+      "description": "Area of dense human habitation. Derived from 2002-2003 MODIS satellite data."
     },
     "inferno": {
-      "name": "",
-      "description": ""
+      "name": "Inferno",
+      "description": "2 complex cities 😵 : Santa Cruz de la Sierre (Bolivia) & Touba (Senegal)"
     },
     "french-stations": {
-      "name": "",
-      "description": ""
+      "name": "French stations 🇫🇷",
+      "description": "The list of French passenger stations"
     },
     "german-stations": {
-      "name": "",
-      "description": ""
+      "name": "German stations 🇩🇪",
+      "description": "German train stations."
     },
     "german-level-crossings": {
-      "name": "",
-      "description": ""
+      "name": "German Level Crossings 🇩🇪",
+      "description": "German Level Crossings"
     },
     "big-airports": {
-      "name": "",
-      "description": ""
+      "name": "Big airports ✈️",
+      "description": "This map contains the largest airports (> 600) on the world."
     },
     "german-football-stadiums": {
-      "name": "",
-      "description": ""
+      "name": "German football stadiums ⚽",
+      "description": "German football stadiums of clubs in the first (Bundesliga) to fourth (Regionalliga) leagues"
     },
     "nordic-vibes": {
-      "name": "",
-      "description": ""
+      "name": "Nordic vibes",
+      "description": "Walk in the Nordic countries (Finland, Sweden, Denmark, Norway, Faroe Islands, Iceland)"
     }
   },
   "areas": {
     "france-region": {
-      "name": "",
+      "name": "France Region",
       "description": ""
     },
     "france-county": {
-      "name": "",
+      "name": "France County",
       "description": ""
     },
     "usa-state": {
-      "name": "",
+      "name": "US States",
       "description": ""
     },
     "tunisia-gouvenorate": {
-      "name": "",
+      "name": "Tunisia governorate",
       "description": ""
     },
     "nantes": {
-      "name": "",
+      "name": "District of Nantes, France",
       "description": ""
     },
     "continent": {
-      "name": "",
+      "name": "Continent",
       "description": ""
     }
   }
