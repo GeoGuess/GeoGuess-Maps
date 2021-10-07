@@ -3,14 +3,14 @@ files:
     translation: /**/src/locale/%two_letters_code%.json
     skip_untranslated_strings: true
     excluded_target_languages:
-    - cs
-    - de
-    - en
-    - fr
-    - he
-    - ja
-    - pt
-    - ru
-    - sv
-    - tr
-    - it
+      - cs
+      - de
+      - en
+      - fr
+      - he
+      - ja
+      - pt
+      - ru
+      - sv
+      - tr
+      - it
