@@ -1,0 +1,78 @@
+{
+  "maps": {
+    "unesco": {
+      "name": "",
+      "description": ""
+    },
+    "europe": {
+      "name": "",
+      "description": ""
+    },
+    "biggest-cities": {
+      "name": "",
+      "description": ""
+    },
+    "small-powerful": {
+      "name": "",
+      "description": ""
+    },
+    "urban": {
+      "name": "",
+      "description": ""
+    },
+    "inferno": {
+      "name": "",
+      "description": ""
+    },
+    "french-stations": {
+      "name": "",
+      "description": ""
+    },
+    "german-stations": {
+      "name": "",
+      "description": ""
+    },
+    "german-level-crossings": {
+      "name": "",
+      "description": ""
+    },
+    "big-airports": {
+      "name": "",
+      "description": ""
+    },
+    "german-football-stadiums": {
+      "name": "",
+      "description": ""
+    },
+    "nordic-vibes": {
+      "name": "",
+      "description": ""
+    }
+  },
+  "areas": {
+    "france-region": {
+      "name": "",
+      "description": ""
+    },
+    "france-county": {
+      "name": "",
+      "description": ""
+    },
+    "usa-state": {
+      "name": "",
+      "description": ""
+    },
+    "tunisia-gouvenorate": {
+      "name": "",
+      "description": ""
+    },
+    "nantes": {
+      "name": "",
+      "description": ""
+    },
+    "continent": {
+      "name": "",
+      "description": ""
+    }
+  }
+}
