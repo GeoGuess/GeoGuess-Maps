@@ -1,0 +1,86 @@
+{
+    "unesco": {
+        "name": "Unesco : World Heritage List",
+        "description": "",
+        "author": "B3N4K",
+        "imageUrl": "https://images.unsplash.com/photo-1599833975787-5c143f373c30?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
+        "url": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/maps/unesco.geojson"
+    },
+    "europe": {
+        "name": "Europe",
+        "description": "Europe without Russia",
+        "author": "",
+        "imageUrl": "https://images.unsplash.com/photo-1588607327673-83b8f3791d6a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
+        "url": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/maps/Europe.geojson"
+    },
+    "biggest-cities": {
+        "name": "Biggest City",
+        "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…",
+        "author": "BilelJegham",
+        "imageUrl": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjg3OTd9&auto=format&fit=crop&w=500&h=230",
+        "url": "https://gist.githubusercontent.com/BilelJegham/7f855024440c67d65f24536c9215719e/raw/1c3c4b6457244bc30dc4759098d02c75a328a1c1/cities.geojson"
+    },
+    "small-powerful": {
+        "name": "Small But Powerful",
+        "description": "This map is designed to add variety to the game of Geoguess by leaving out large nations. Australia, Brasil, Canada, China, Russia and United States of America are not included.",
+        "author": "wlanowski, Geodata by jalbertbowden (PDDL)",
+        "imageUrl": "https://images.unsplash.com/photo-1473163928189-364b2c4e1135?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
+        "url": "https://raw.githubusercontent.com/wlanowski/wlanowskis-maps-for-geoguess/main/world-wo-large-countries/world-wo-large-countries.min.geojson"
+    },
+    "urban": {
+        "name": "Urban World",
+        "description": "Area of dense human habitation. Derived from 2002-2003 MODIS satellite data.",
+        "author": "BilelJegham, Natural Earth",
+        "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
+        "url": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/maps/ne_50m_urban_areas.geojson"
+    },
+    "inferno": {
+        "name": "Inferno",
+        "description": "2 complex cities 😵 : Santa Cruz de la Sierre (Bolivia) & Touba (Senegal)",
+        "author": "",
+        "imageUrl": "https://images.unsplash.com/photo-1510133768164-a8f7e4d4e3dc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
+        "url": "https://gist.githubusercontent.com/BilelJegham/b6a0faa627aac3b7f5bc677523c4c7eb/raw/2e710e5c0b457131a9cb28674507d8725c7de40d/hard.geojson"
+    },
+    "french-stations": {
+        "name": "French stations 🇫🇷",
+        "description": "The list of French passenger stations",
+        "author": "BilelJegham",
+        "imageUrl": "https://images.unsplash.com/photo-1585304999403-daecd24e88b0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
+        "url": "https://gist.githubusercontent.com/BilelJegham/891f976fac2017ae19e699991aba4f01/raw/19bfe072be8762e93142b56eddecf83b967f7d9d/referentiel-gares-voyageurs-min.geojson"
+    },
+    "german-stations": {
+        "name": "German stations 🇩🇪",
+        "description": "German train stations.",
+        "author": "wlanowski, Geodata by Deutsche Bahn AG (CC-BY 4.0)",
+        "imageUrl": "https://images.unsplash.com/photo-1564932071257-a68c88baf3cd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
+        "url": "https://raw.githubusercontent.com/wlanowski/wlanowskis-maps-for-geoguess/main/german-train-stations/german-train-stations.min.geojson"
+    },
+    "german-level-crossings": {
+        "name": "German Level Crossings 🇩🇪",
+        "description": "German Level Crossings",
+        "author": "wlanowski, Geodata by Deutsche Bahn AG (CC-BY 4.0)",
+        "imageUrl": "https://live.staticflickr.com/65535/47993867138_a5f720503d.jpg",
+        "url": "https://raw.githubusercontent.com/wlanowski/wlanowskis-maps-for-geoguess/main/german-level-crossings/german-level-crossings.min.geojson"
+    },
+    "big-airports": {
+        "name": "Big airports ✈️",
+        "description": "This map contains the largest airports (> 600) on the world.",
+        "author": "wlanowski, Geodata by datahub.io (Public Domain/PDDL)",
+        "imageUrl": "https://images.unsplash.com/photo-1561131668-f63504fc549d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
+        "url": "https://raw.githubusercontent.com/wlanowski/wlanowskis-maps-for-geoguess/main/big-airports-world/airports.min.geojson"
+    },
+    "german-football-stadiums": {
+        "name": "German football stadiums ⚽",
+        "description": "German football stadiums of clubs in the first (Bundesliga) to fourth (Regionalliga) leagues",
+        "author": "wlanowski, Geodata by jocialmedia (CC-BY-SA)",
+        "imageUrl": "https://images.unsplash.com/photo-1540021755796-56b8b27128f8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
+        "url": "https://raw.githubusercontent.com/wlanowski/wlanowskis-maps-for-geoguess/main/german-football-stadiums/german-football-stadiums.min.geojson"
+    },
+    "nordic-vibes": {
+        "name": "Nordic vibes",
+        "description": "Walk in the Nordic countries (Finland, Sweden, Denmark, Norway, Faroe Islands, Iceland)",
+        "author": "Dimoushh",
+        "imageUrl": "https://images.unsplash.com/photo-1446419385500-203d54c0c460?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
+        "url": "https://raw.githubusercontent.com/dimfort/content/main/nordicarea.geojson"
+    }
+}

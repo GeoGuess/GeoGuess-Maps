@@ -1,0 +1,117 @@
+{
+    "france-region": {
+        "name": "France Region",
+        "description": "",
+        "author": "BilelJegham, gregoiredavid",
+        "data": {
+            "bbox": [
+                -5.4517733,
+                41.2611155,
+                9.8282225,
+                51.3055721
+            ],
+            "urlArea": "https://raw.githubusercontent.com/gregoiredavid/france-geojson/master/regions-version-simplifiee.geojson",
+            "type": "nominatim",
+            "pathKey": "nom",
+            "nominatimResultPath": "address.state",
+            "nominatimQueryParams": {
+                "zoom": "5",
+                "addressdetails": "1",
+                "accept-language": "fr"
+            }
+        }
+    },
+    "france-county": {
+        "name": "France County",
+        "description": "",
+        "author": "BilelJegham, gregoiredavid",
+        "data": {
+            "bbox": [
+                -5.4517733,
+                41.2611155,
+                9.8282225,
+                51.3055721
+            ],
+            "urlArea": "https://raw.githubusercontent.com/gregoiredavid/france-geojson/master/departements-version-simplifiee.geojson",
+            "type": "nominatim",
+            "pathKey": "nom",
+            "nominatimResultPath": "address.county",
+            "nominatimQueryParams": {
+                "zoom": "8",
+                "addressdetails": "1",
+                "accept-language": "fr"
+            }
+        }
+    },
+    "usa-state": {
+        "name": "US States",
+        "description": "",
+        "author": "BilelJegham",
+        "data": {
+            "bbox": [
+                -171.79111060289117,
+                18.916190000000142,
+                -66.96466,
+                71.35776357694175
+            ],
+            "urlArea": "https://raw.githubusercontent.com/martynafford/natural-earth-geojson/master/110m/cultural/ne_110m_admin_1_states_provinces.json",
+            "type": "nominatim",
+            "pathKey": "name",
+            "nominatimResultPath": "address.state",
+            "nominatimQueryParams": {
+                "zoom": "5",
+                "addressdetails": "1",
+                "accept-language": "en"
+            }
+        }
+    },
+    "tunisia-gouvenorate": {
+        "name": "Tunisia governorate",
+        "description": "",
+        "imageUrl": "https://images.unsplash.com/photo-1512136323137-f0c1cc25cb06?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
+        "author": "BilelJegham",
+        "data": {
+            "bbox": [
+                30.229061,
+                37.7612052,
+                7.5219807,
+                11.8801133
+            ],
+            "urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/tunisiaGouvernorat.geojson",
+            "type": "nominatim",
+            "pathKey": "gouvernorat_fr",
+            "nominatimResultPath": "address.state",
+            "nominatimQueryParams": {
+                "zoom": "5",
+                "addressdetails": "1",
+                "accept-language": "fr"
+            }
+        }
+    },
+    "nantes": {
+        "name": "District of Nantes, France",
+        "description": "",
+        "author": "BilelJegham, data.nantesmetropole.fr",
+        "data": {
+            "bbox": [
+                -1.6418115,
+                47.1805856,
+                -1.4788443,
+                47.2958583
+            ],
+            "urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/frNantesMetropolisDistrict.geojson",
+            "type": "polygon",
+            "pathKey": "nom"
+        }
+    },
+    "continent": {
+        "name": "Continent",
+        "description": "",
+        "author": "BilelJegham",
+        "data": {
+            "urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/continents.json",
+            "type": "polygon",
+            "pathKey": "continent"
+        }
+    }
+}

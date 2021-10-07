@@ -1,0 +1,34 @@
+{
+    "type": "object",
+    "propertyNames": {
+        "pattern": "([a-z-])+"
+    },
+    "patternProperties": {
+        "": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "author": {
+                    "type": "string"
+                },
+                "imageUrl": {
+                    "type": "string"
+                },
+                "url": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "name",
+                "description",
+                "author",
+                "url"
+            ]
+        }
+    }
+}

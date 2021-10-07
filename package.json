@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "test": "npm run validate:areas && npm run validate:maps",
+    "validate:maps": "ajv -s src/_schemas/lists-maps.schema.json -d src/list.maps.json",
+    "validate:areas": "ajv -s src/_schemas/lists-areas.schema.json -d src/list.areas.json",
+    "generate": "node scripts/generate-i18n.js > src/locale/en.json",
+    "build": "node scripts/build.js > maps.json"
+  },
+  "dependencies": {
+    "ajv-cli": "^5.0.0"
+  }
+}

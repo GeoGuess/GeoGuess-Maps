@@ -1,0 +1,62 @@
+{
+    "type": "object",
+    "propertyNames": {
+        "pattern": "([a-z-])+"
+    },
+    "patternProperties": {
+        "": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "author": {
+                    "type": "string"
+                },
+                "imageUrl": {
+                    "type": "string"
+                },
+                "data": {
+                    "type": "object",
+                    "properties": {
+                        "bbox": {
+                            "type": "array",
+                            "items": {
+                                "type": "number"
+                            }
+                        },
+                        "urlArea": {
+                            "type": "string"
+                        },
+                        "type": {
+                            "type": "string",
+                            "pattern": "polygon|nominatim"
+                        },
+                        "pathKey": {
+                            "type": "string"
+                        },
+                        "nominatimResultPath": {
+                            "type": "string"
+                        },
+                        "nominatimQueryParams": {
+                            "type": "object"
+                        }
+                    },
+                    "required": [
+                        "type",
+                        "urlArea"
+                    ]
+                }
+            },
+            "required": [
+                "name",
+                "description",
+                "author",
+                "data"
+            ]
+        }
+    }
+}
