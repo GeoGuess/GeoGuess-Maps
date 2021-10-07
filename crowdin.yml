@@ -2,3 +2,15 @@ files:
   - source: src/locale/en.json
     translation: /**/src/locale/%two_letters_code%.json
     skip_untranslated_strings: true
+    excluded_target_languages:
+    - cs
+    - de
+    - en
+    - fr
+    - he
+    - ja
+    - pt
+    - ru
+    - sv
+    - tr
+    - it
