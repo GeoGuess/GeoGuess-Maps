@@ -1,15 +1,11 @@
 
-name: Crowdin Action
+name: Build
 
 on:
-  pull_request:
-    branches: 
-      - I10n_master 
-    paths:
-      - src/locale/**
+  workflow_dispatch:
 
 jobs:
-  synchronize-with-crowdin:
+  build:
     runs-on: ubuntu-latest
 
     steps:
