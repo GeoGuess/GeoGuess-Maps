@@ -6,7 +6,7 @@
     },
     "europe": {
       "name": "Europe",
-      "description": "Europe sans la russie"
+      "description": "Europe sans la Russie"
     },
     "biggest-cities": {
       "name": "Grande Villes",
@@ -14,7 +14,7 @@
     },
     "small-powerful": {
       "name": "Petit mais puissant",
-      "description": "Cette carte est conçue pour ajouter de la variété au jeu de Geoguess en excluant les grandes nations. L'Australie, le Brésil, le Canada, la Chine, la Russie et les États-Unis d'Amérique ne sont pas inclus."
+      "description": "Cette carte est conçue pour ajouter de la variété au jeu de GeoGuess en excluant les grandes nations. L'Australie, le Brésil, le Canada, la Chine, la Russie et les États-Unis d'Amérique ne sont pas inclus."
     },
     "urban": {
       "name": "Monde Urbain",
@@ -22,7 +22,7 @@
     },
     "inferno": {
       "name": "Inferno",
-      "description": "2 villes trés complexes 😵 : Santa Cruz de la Sierre (Bolivia) & Touba (Senegal)"
+      "description": "2 villes très complexes 😵 : Santa Cruz de la Sierre (Bolivia) & Touba (Senegal)"
     },
     "french-stations": {
       "name": "Gares françaises 🇫🇷",
@@ -30,11 +30,11 @@
     },
     "german-stations": {
       "name": "Gares allemandes 🇩🇪",
-      "description": "Gares de train allemandes"
+      "description": "Gares de train allemandes."
     },
     "german-level-crossings": {
-      "name": "Passages à niveau allemands  🇩🇪",
-      "description": "Passages à niveau allemands "
+      "name": "Passages à niveau allemands 🇩🇪",
+      "description": "Passages à niveau allemands"
     },
     "big-airports": {
       "name": "Grand aéroports ✈️",
@@ -67,7 +67,7 @@
       "description": ""
     },
     "nantes": {
-      "name": "Quatiers de Nantes Métropole France",
+      "name": "Quartiers de Nantes Métropole France",
       "description": ""
     },
     "continent": {
