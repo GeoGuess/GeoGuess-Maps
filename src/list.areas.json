@@ -122,6 +122,23 @@
             }
         }
     },
+    "brazil-regio":{
+        "name": "Brazil Region",
+        "description": "",
+        "author": "BilelJegham, luizpedone",
+        "data":{
+            "bbox": [-33.8689056,5.2693306,-73.9830625,-28.6289646],
+            "urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/brazil_regions.geojson",
+            "type": "nominatim",
+            "pathKey": "ESTADO",
+            "nominatimResultPath": "address.state",
+            "nominatimQueryParams": {
+                "zoom": "5",
+                "addressdetails": "1",
+                "accept-language": "pt"
+            }
+        }
+    },
     "nantes": {
         "name": "District of Nantes, France",
         "description": "",
