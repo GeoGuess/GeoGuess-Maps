@@ -66,6 +66,18 @@
       "name": "Tunisia governorate",
       "description": ""
     },
+    "italy-region": {
+      "name": "Italy Region",
+      "description": ""
+    },
+    "italy-county": {
+      "name": "Italy County",
+      "description": ""
+    },
+    "brazil-regio": {
+      "name": "Brazil Region",
+      "description": ""
+    },
     "nantes": {
       "name": "District of Nantes, France",
       "description": ""
