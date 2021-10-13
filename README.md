@@ -5,7 +5,7 @@
 [![Discord](https://img.shields.io/discord/758443244387303435?color=7289DA&label=discord&logo=discord&logoColor=FFFFFF)](https://discord.gg/9GXm6RT)
 [![Crowdin](https://badges.crowdin.net/geoguess/localized.svg)](https://translate.geoguess.games/project/geoguess)
 
-List community map for [GeoGuess](https://github.com/GeoGuess/Geoguess).
+List of community map for [GeoGuess](https://github.com/GeoGuess/Geoguess).
 
 
 ## Create Map
