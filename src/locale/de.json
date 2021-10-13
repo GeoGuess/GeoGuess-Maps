@@ -1,89 +1,89 @@
 {
   "maps": {
     "unesco": {
-      "name": "Unesco : World Heritage List",
+      "name": "Unesco Weltkulturerbe",
       "description": ""
     },
     "europe": {
-      "name": "Europe",
-      "description": "Europe without Russia"
+      "name": "Europa",
+      "description": "Europa ohne Russland"
     },
     "biggest-cities": {
-      "name": "Biggest City",
-      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "name": "Größte Stadt",
+      "description": "Liste der 40 größten Städte der Welt: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEUES YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
     },
     "small-powerful": {
-      "name": "Small But Powerful",
-      "description": "This map is designed to add variety to the game of Geoguess by leaving out large nations. Australia, Brasil, Canada, China, Russia and United States of America are not included."
+      "name": "Klein aber mächtig",
+      "description": "Diese Karte wurde gestaltet, um dem Spiel von Geoguess Abwechslung zu verleihen, indem große Nationen ausgelassen werden. Australien, Brasilien, Kanada, China, Russland und die Vereinigten Staaten von Amerika sind nicht inbegriffen."
     },
     "urban": {
-      "name": "Urban World",
-      "description": "Area of dense human habitation. Derived from 2002-2003 MODIS satellite data."
+      "name": "Urbane Welt",
+      "description": "Gebiete mit hoher Bevölkerungsdichte. Basiert auf MODIS Satellitendaten von 2002-2003."
     },
     "inferno": {
       "name": "Inferno",
-      "description": "2 complex cities 😵 : Santa Cruz de la Sierre (Bolivia) & Touba (Senegal)"
+      "description": "2 komplexe Städte 😵 Santa Cruz de la Sierre (Bolivien) & Touba (Senegal)"
     },
     "french-stations": {
-      "name": "French stations 🇫🇷",
-      "description": "The list of French passenger stations"
+      "name": "Französische Bahnhöfe 🇫🇷",
+      "description": "Liste der französischen Personenbahnhöfe"
     },
     "german-stations": {
-      "name": "German stations 🇩🇪",
-      "description": "German train stations."
+      "name": "Deutsche Bahnhöfe",
+      "description": "Deutsche Bahnhöfe."
     },
     "german-level-crossings": {
-      "name": "German Level Crossings 🇩🇪",
-      "description": "German Level Crossings"
+      "name": "Deutsche Bahnübergänge 🇩🇪",
+      "description": "Deutsche Bahnübergänge"
     },
     "big-airports": {
-      "name": "Big airports ✈️",
-      "description": "This map contains the largest airports (> 600) on the world."
+      "name": "Große Flughäfen ✈️",
+      "description": "Diese Karte enthält die größten Flughäfen (> 600) der Welt."
     },
     "german-football-stadiums": {
-      "name": "German football stadiums ⚽",
-      "description": "German football stadiums of clubs in the first (Bundesliga) to fourth (Regionalliga) leagues"
+      "name": "Deutsche Fußballstadien ⚽",
+      "description": "Deutsche Fußballstadien von Vereinen in der ersten Bundesliga bis zur Regionalliga"
     },
     "nordic-vibes": {
       "name": "Nordic vibes",
-      "description": "Walk in the Nordic countries (Finland, Sweden, Denmark, Norway, Faroe Islands, Iceland)"
+      "description": "Spaziergang in den nordischen Ländern (Finnland, Schweden, Dänemark, Norwegen, Färöer Inseln, Island)"
     }
   },
   "areas": {
     "france-region": {
-      "name": "France Region",
+      "name": "Region Frankreich",
       "description": ""
     },
     "france-county": {
-      "name": "France County",
+      "name": "Bezirk Frankreich",
       "description": ""
     },
     "usa-state": {
-      "name": "US States",
+      "name": "US-Staaten",
       "description": ""
     },
     "tunisia-gouvenorate": {
-      "name": "Tunisia governorate",
+      "name": "Gouvernements von Tunesien",
       "description": ""
     },
     "italy-region": {
-      "name": "Italy Region",
+      "name": "Region Italien",
       "description": ""
     },
     "italy-county": {
-      "name": "Italy County",
+      "name": "Provinz Italien",
       "description": ""
     },
     "brazil-regio": {
-      "name": "Brazil Region",
+      "name": "Region Brasilien",
       "description": ""
     },
     "nantes": {
-      "name": "District of Nantes, France",
+      "name": "Bezirk Nantes, Frankreich",
       "description": ""
     },
     "continent": {
-      "name": "Continent",
+      "name": "Kontinent",
       "description": ""
     }
   }
