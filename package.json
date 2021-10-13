@@ -1,4 +1,6 @@
 {
+  "author": "Bilel Jegham",
+  "license": "MIT",
   "scripts": {
     "test": "npm run validate:areas && npm run validate:maps",
     "validate:maps": "ajv -s src/_schemas/lists-maps.schema.json -d src/list.maps.json",
