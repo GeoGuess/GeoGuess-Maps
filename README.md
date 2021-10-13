@@ -12,8 +12,7 @@ List community map for [GeoGuess](https://github.com/GeoGuess/Geoguess).
 
 1. Follow documentation here https://geoguess.games/guide/dev/maps.html
 2. Add map in `src/list.maps.json` with id
-```json
-    
+```js 
     "id": {// id: object
         "name": string,
         "description": string,
@@ -29,8 +28,7 @@ List community map for [GeoGuess](https://github.com/GeoGuess/Geoguess).
 
 1. Follow documentation here https://geoguess.games/guide/dev/areas.html
 2. Add area in `src/list.areas.json` with id
-```json
-    
+```js
     "id": {// id: object
         "name": string,
         "description": string,
