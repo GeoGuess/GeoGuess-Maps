@@ -88,6 +88,40 @@
             }
         }
     },
+    "italy-region": {
+        "name": "Italy Region",
+        "description": "",
+        "author": "BilelJegham, openpolis",
+        "data": {
+            "bbox": [35.2889616, 47.0921462, 6.6272658, 18.7844746],
+            "urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/italy_regions.geojson",
+            "type": "nominatim",
+            "pathKey": "reg_name",
+            "nominatimResultPath": "address.state",
+            "nominatimQueryParams": {
+                "zoom": "5",
+                "addressdetails": "1",
+                "accept-language": "it"
+            }
+        }
+    },
+    "italy-county": {
+        "name": "Italy County",
+        "description": "",
+        "author": "BilelJegham, openpolis",
+        "data": {
+            "bbox": [35.2889616, 47.0921462, 6.6272658, 18.7844746],
+            "urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/italy_provinces.geojson",
+            "type": "nominatim",
+            "pathKey": "prov_name",
+            "nominatimResultPath": "address.county",
+            "nominatimQueryParams": {
+                "zoom": "8",
+                "addressdetails": "1",
+                "accept-language": "it"
+            }
+        }
+    },
     "nantes": {
         "name": "District of Nantes, France",
         "description": "",
