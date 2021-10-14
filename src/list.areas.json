@@ -123,7 +123,7 @@
         }
     },
     "brazil-regio":{
-        "name": "Brazil Region",
+        "name": "Brazil States",
         "description": "",
         "author": "BilelJegham, luizpedone",
         "data":{
@@ -136,6 +136,23 @@
                 "zoom": "5",
                 "addressdetails": "1",
                 "accept-language": "pt"
+            }
+        }
+    },
+    "mexico-state":{
+        "name": "Mexico States",
+        "description": "",
+        "author": "BilelJegham, angelnmara",
+        "data":{
+            "bbox": [-33.8689056,5.2693306,-73.9830625,-28.6289646],
+            "urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/mexico_states.geojson",
+            "type": "nominatim",
+            "pathKey": "name",
+            "nominatimResultPath": "addrss.state",
+            "nominatimFallbackResultPath": "display_name",
+            "nominatimQueryParams": {
+                "zoom": "5",
+                "accept-language": "es"
             }
         }
     },
