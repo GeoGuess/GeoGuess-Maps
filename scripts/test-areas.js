@@ -1,14 +1,14 @@
 #!/bin/node
 const listAreas = require('../src/list.areas.json');
-const data = require('../public/geojson/areas/italy_provinces.geojson.json');
-const center = require('@turf/center').default;
+const data = require('../public/geojson/areas/mexico_states.json');
+const centroid = require('@turf/centroid').default;
 const fetch = require('node-fetch');
 
 
 
 
 
-const key = 'italy-county';
+const key = 'mexico-state';
 const areaParams = listAreas[key].data;
 
 async function launch(){
@@ -24,7 +24,7 @@ async function launch(){
 	// For Each feature in the data
 	for(const feature of data.features){
 		// Get Center of the feature
-		const centerPoint = center(feature);
+		const centerPoint = centroid(feature);
 		const nominatimQueryParams =
       areaParams && areaParams.nominatimQueryParams
           ? areaParams.nominatimQueryParams
@@ -44,7 +44,11 @@ async function launch(){
 			}
 		})
 		try{
-			const areaName = areaParams.nominatimResultPath.split('.').reduce((o, i) => o[i], dataNominatim);
+			let areaName = areaParams.nominatimResultPath.split('.').reduce((o, i) => o ? o[i] : undefined, dataNominatim);
+
+			if(areaName === undefined)
+				areaName = areaParams.nominatimFallbackResultPath.split('.').reduce((o, i) => o[i], dataNominatim);
+
 			if(areaName  !== feature.properties[areaParams.pathKey]){
 				console.error("Feature doesn't match with config - ",areaName,'|',feature.properties[areaParams.pathKey]);
 				res = 1

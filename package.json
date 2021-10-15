@@ -9,8 +9,10 @@
     "build": "node scripts/build.js > maps.json"
   },
   "dependencies": {
-    "@turf/center": "^6.5.0",
     "ajv-cli": "^5.0.0",
     "node-fetch": "^2.0.0"
+  },
+  "devDependencies": {
+    "@turf/centroid": "^6.5.0"
   }
 }
