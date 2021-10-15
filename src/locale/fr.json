@@ -75,7 +75,11 @@
       "description": ""
     },
     "brazil-regio": {
-      "name": "Brazil Region",
+      "name": "Brazil States",
+      "description": ""
+    },
+    "mexico-state": {
+      "name": "Mexico States",
       "description": ""
     },
     "nantes": {
