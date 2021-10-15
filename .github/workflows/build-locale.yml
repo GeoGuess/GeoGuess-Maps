@@ -30,4 +30,4 @@ jobs:
         git config user.email "<>"
         git add maps.json
         git commit -m "ci: build maps.json"
-        git push origin I10n_master
+        git push
