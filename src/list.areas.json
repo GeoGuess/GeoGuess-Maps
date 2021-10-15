@@ -144,7 +144,7 @@
         "description": "",
         "author": "BilelJegham, angelnmara",
         "data":{
-            "bbox": [-33.8689056,5.2693306,-73.9830625,-28.6289646],
+            "bbox": [-118.366000,14.534700,-86.723700,32.718200],
             "urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/mexico_states.geojson",
             "type": "nominatim",
             "pathKey": "name",
