@@ -66,6 +66,22 @@
       "name": "Tunisie Gouvernorat",
       "description": ""
     },
+    "italy-region": {
+      "name": "Italy Region",
+      "description": ""
+    },
+    "italy-county": {
+      "name": "Italy County",
+      "description": ""
+    },
+    "brazil-regio": {
+      "name": "Brazil States",
+      "description": ""
+    },
+    "mexico-state": {
+      "name": "Mexico States",
+      "description": ""
+    },
     "nantes": {
       "name": "Quartiers de Nantes Métropole France",
       "description": ""
