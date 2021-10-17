@@ -8,6 +8,8 @@ const fs = require("fs");
 const directoryPath = path.join(__dirname, "../src/locale/");
 fs.readdir(directoryPath, main);
 
+const DEFAULT_LANG="en"
+
 function main(err, files) {
   //handling error
   if (err) {
@@ -34,7 +36,7 @@ function main(err, files) {
 		let map = maps[mapKey]
 		for (const key of ["name", "description"]) {
 			map[key] = i18nContent.reduce((acc, lang) => {
-				if (lang.content[type][mapKey]) {
+				if (lang.content[type][mapKey] && (lang === DEFAULT_LANG || lang.content[type][mapKey][key] != map[key])) {
           acc[lang.code] = lang.content[type][mapKey][key];
         }
         return acc;
