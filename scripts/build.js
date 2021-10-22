@@ -35,12 +35,15 @@ function main(err, files) {
 	function getContent(maps, mapKey, type) {
 		let map = maps[mapKey]
 		for (const key of ["name", "description"]) {
+      const content = map[key];
 			map[key] = i18nContent.reduce((acc, lang) => {
 				if (lang.content[type][mapKey] && (lang === DEFAULT_LANG || lang.content[type][mapKey][key] != map[key])) {
           acc[lang.code] = lang.content[type][mapKey][key];
         }
         return acc;
       }, {});
+      map[key][DEFAULT_LANG] = content;
+      
     }
 		return map
 	}
