@@ -4,10 +4,6 @@
       "name": "Lista Patrimonio Mondiale dell'Umanità Unesco",
       "description": ""
     },
-    "europe": {
-      "name": "Europa",
-      "description": "Europa senza Russia"
-    },
     "biggest-cities": {
       "name": "Città più grandi",
       "description": "Lista delle 40 città più grandi del mondo: PARIGI, KOBE OSAKA, SEOUL, HOUSTON, BARCELLONA, FILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDRA, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MESSICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
@@ -19,6 +15,30 @@
     "urban": {
       "name": "Mondo Urbano",
       "description": "Area di densa abitazione umana. Derivata dai dati satellitari MODIS 2002-2003."
+    },
+    "europe": {
+      "name": "Europa",
+      "description": "Europa senza Russia"
+    },
+    "africa": {
+      "name": "Africa",
+      "description": ""
+    },
+    "asia": {
+      "name": "Asia",
+      "description": ""
+    },
+    "north-america": {
+      "name": "North America",
+      "description": ""
+    },
+    "south-america": {
+      "name": "South America",
+      "description": ""
+    },
+    "Oceania": {
+      "name": "Oceania",
+      "description": ""
     },
     "inferno": {
       "name": "Inferno",
