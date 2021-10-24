@@ -6,13 +6,6 @@
         "imageUrl": "https://images.unsplash.com/photo-1599833975787-5c143f373c30?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
         "url": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/maps/unesco.geojson"
     },
-    "europe": {
-        "name": "Europe",
-        "description": "Europe without Russia",
-        "author": "",
-        "imageUrl": "https://images.unsplash.com/photo-1588607327673-83b8f3791d6a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
-        "url": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/maps/Europe.geojson"
-    },
     "biggest-cities": {
         "name": "Biggest City",
         "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…",
@@ -33,6 +26,48 @@
         "author": "BilelJegham, Natural Earth",
         "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
         "url": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/maps/ne_50m_urban_areas.geojson"
+    },
+    "europe": {
+        "name": "Europe",
+        "description": "Europe without Russia",
+        "author": "",
+        "imageUrl": "https://images.unsplash.com/photo-1588607327673-83b8f3791d6a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
+        "url": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/maps/regions/europe.geojson"
+    },
+    "africa": {
+        "name": "Africa",
+        "description": "",
+        "author": "",
+        "imageUrl": "https://images.unsplash.com/photo-1626695436783-d942d5928174?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
+        "url": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/maps/regions/europe.geojson"
+    },
+    "asia": {
+        "name": "Asia",
+        "description": "",
+        "author": "",
+        "imageUrl": "https://images.unsplash.com/photo-1529579134665-75dfc9c5ccef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
+        "url": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/maps/regions/asia.geojson"
+    }, 
+    "north-america": {
+        "name": "North America",
+        "description": "",
+        "author": "",
+        "imageUrl": "https://images.unsplash.com/photo-1604549944235-3e5579b15cc2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
+        "url": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/maps/regions/north-america.geojson"
+    },  
+    "south-america": {
+        "name": "South America",
+        "description": "",
+        "author": "",
+        "imageUrl": "https://images.unsplash.com/photo-1563126171-fa019bbbfa18?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
+        "url": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/maps/regions/south-america.geojson"
+    },    
+    "Oceania": {
+        "name": "Oceania",
+        "description": "",
+        "author": "",
+        "imageUrl": "https://images.unsplash.com/photo-1575998256921-f3ef8ebdabef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
+        "url": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/maps/regions/oceania.geojson"
     },
     "inferno": {
         "name": "Inferno",
