@@ -4,10 +4,6 @@
       "name": "Unesco : Liste du patrimoine mondial",
       "description": ""
     },
-    "europe": {
-      "name": "Europe",
-      "description": "Europe sans la Russie"
-    },
     "biggest-cities": {
       "name": "Grande Villes",
       "description": "Une liste de plus de 40 villes : PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
@@ -19,6 +15,30 @@
     "urban": {
       "name": "Monde Urbain",
       "description": "Zone à forte densité d'habitation. Dérivé des données satellites MODIS 2002-2003."
+    },
+    "europe": {
+      "name": "Europe",
+      "description": "Europe sans la Russie"
+    },
+    "africa": {
+      "name": "Africa",
+      "description": ""
+    },
+    "asia": {
+      "name": "Asia",
+      "description": ""
+    },
+    "north-america": {
+      "name": "North America",
+      "description": ""
+    },
+    "south-america": {
+      "name": "South America",
+      "description": ""
+    },
+    "Oceania": {
+      "name": "Oceania",
+      "description": ""
     },
     "inferno": {
       "name": "Inferno",
