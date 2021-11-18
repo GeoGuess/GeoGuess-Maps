@@ -70,6 +70,10 @@
     }
   },
   "areas": {
+    "continent": {
+      "name": "Continent",
+      "description": ""
+    },
     "france-region": {
       "name": "France Region",
       "description": ""
@@ -106,9 +110,9 @@
       "name": "District of Nantes, France",
       "description": ""
     },
-    "continent": {
-      "name": "Continent",
-      "description": ""
+    "biggest-cities": {
+      "name": "Biggest City (areas)",
+      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
     }
   }
 }
