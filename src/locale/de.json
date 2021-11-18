@@ -21,23 +21,23 @@
       "description": "Europa ohne Russland"
     },
     "africa": {
-      "name": "Africa",
+      "name": "Afrika",
       "description": ""
     },
     "asia": {
-      "name": "Asia",
+      "name": "Asien",
       "description": ""
     },
     "north-america": {
-      "name": "North America",
+      "name": "Nordamerika",
       "description": ""
     },
     "south-america": {
-      "name": "South America",
+      "name": "Südamerika",
       "description": ""
     },
     "Oceania": {
-      "name": "Oceania",
+      "name": "Ozeanien",
       "description": ""
     },
     "inferno": {
@@ -99,11 +99,11 @@
       "description": ""
     },
     "brazil-regio": {
-      "name": "Brazil States",
+      "name": "Brasilianische Bundesstaaten",
       "description": ""
     },
     "mexico-state": {
-      "name": "Mexico States",
+      "name": "Mexikanische Bundesstaaten",
       "description": ""
     },
     "nantes": {
@@ -111,8 +111,8 @@
       "description": ""
     },
     "biggest-cities": {
-      "name": "Biggest City (areas)",
-      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "name": "Größte Stadt (Gebiete)",
+      "description": "Liste der 40 größten Städte der Welt: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKIO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO-CHI-MINH-STADT, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPUR, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
     }
   }
 }
