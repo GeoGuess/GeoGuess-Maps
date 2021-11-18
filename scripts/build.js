@@ -49,11 +49,13 @@ function main(err, files) {
 	}
 
   for (const mapKey in maps) {
+    if(areas[areaKey].active == false) continue;
     const map = getContent(maps, mapKey, 'maps');
     res.maps.push(map);
   }
 	
 	for (const areaKey in areas) {
+    if(areas[areaKey].active == false) continue;
     const area = getContent(areas, areaKey, 'areas');
     res.areas.push(area);
   }
