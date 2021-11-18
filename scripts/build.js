@@ -49,7 +49,7 @@ function main(err, files) {
 	}
 
   for (const mapKey in maps) {
-    if(areas[areaKey].active == false) continue;
+    if(maps[mapKey].active == false) continue;
     const map = getContent(maps, mapKey, 'maps');
     res.maps.push(map);
   }
