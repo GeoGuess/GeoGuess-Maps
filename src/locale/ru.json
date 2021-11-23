@@ -65,54 +65,54 @@
       "description": "Немецкий футбольный стадион клубов в первой (Бундеслига) лиге (Регионаллига)"
     },
     "nordic-vibes": {
-      "name": "Nordic vibes",
-      "description": "Walk in the Nordic countries (Finland, Sweden, Denmark, Norway, Faroe Islands, Iceland)"
+      "name": "Скандинавская атмосфера",
+      "description": "Прогулка в странах Скандинавии (Финляндия, Швеция, Дания, Норвегия, Фарерские острова, Исландия)"
     }
   },
   "areas": {
     "continent": {
-      "name": "Continent",
+      "name": "Континент",
       "description": ""
     },
     "france-region": {
-      "name": "France Region",
+      "name": "Французский регион",
       "description": ""
     },
     "france-county": {
-      "name": "France County",
+      "name": "Французский округ",
       "description": ""
     },
     "usa-state": {
-      "name": "US States",
+      "name": "Штаты США",
       "description": ""
     },
     "tunisia-gouvenorate": {
-      "name": "Tunisia governorate",
+      "name": "Тунисская провинция",
       "description": ""
     },
     "italy-region": {
-      "name": "Italy Region",
+      "name": "Итальянский регион",
       "description": ""
     },
     "italy-county": {
-      "name": "Italy County",
+      "name": "Италия",
       "description": ""
     },
     "brazil-regio": {
-      "name": "Brazil States",
+      "name": "Штаты Бразилии",
       "description": ""
     },
     "mexico-state": {
-      "name": "Mexico States",
+      "name": "Штаты Мексики",
       "description": ""
     },
     "nantes": {
-      "name": "District of Nantes, France",
+      "name": "Район Нант, Франция",
       "description": ""
     },
     "biggest-cities": {
-      "name": "Biggest City (areas)",
-      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "name": "Крупнейший город (районы)",
+      "description": "Список 40 крупнейших городов мира: ПАРИЖ, КОБЕ ОСАКА, СЕУЛ, ХЬЮСТОН, БАРСЕЛОНА, ФИЛАДЕЛЬФИЯ, САНТЬЯГО, ЛАГОС, ДАЛЛАС, НЬЮ-ЙОРК, СТАНБУЛ, ТОКИО, ФУКУОКА, ЛОНДОН, КУАЛА-ЛУМПУР, ЛИМА, ХОШИМИН, МАНИЛУ, ГВАДАЛАХАРУ, МАДРИД, НАГОЮ, СИНГАПУР, ИОГАННЕСБУРГ, БЕЛУ-ГОРИЗОНТЕ, ТОРОНТО, МЕКСИКУ, МАЙАМИ, АТЛАНТУ, РИО-ДЕ-ЖАНЕЙРО, БУЭНОС-АЙРЕС, САО-ПАУЛУ, ЧИКАГО,…"
     }
   }
 }
