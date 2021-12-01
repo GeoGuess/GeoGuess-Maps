@@ -1,114 +1,118 @@
 {
   "maps": {
     "unesco": {
-      "name": "Unesco : World Heritage List",
+      "name": "Unesco : Список мирового наследия",
       "description": ""
     },
     "biggest-cities": {
-      "name": "Biggest City",
-      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "name": "Крупнейшие города",
+      "description": "Список 40 крупнейших городов мира: ПАРИЖ, КОБЕ ОСАКА, СЕУЛ, ХЬЮСТОН, БАРСЕЛОНА, ФИЛАДЕЛЬФИЯ, САНТЬЯГО, ЛАГОС, ДАЛЛАС, НЬЮ-ЙОРК, СТАНБУЛ, ТОКИО, ФУКУОКА, ЛОНДОН, КУАЛА-ЛУМПУР, ЛИМА, ХОШИМИН, МАНИЛУ, ГВАДАЛАХАРУ, МАДРИД, НАГОЮ, СИНГАПУР, ИОГАННЕСБУРГ, БЕЛУ-ГОРИЗОНТЕ, ТОРОНТО, МЕКСИКУ, МАЙАМИ, АТЛАНТУ, РИО-ДЕ-ЖАНЕЙРО, БУЭНОС-АЙРЕС, САО-ПАУЛУ, ЧИКАГО,…"
     },
     "small-powerful": {
-      "name": "Small But Powerful",
-      "description": "This map is designed to add variety to the game of Geoguess by leaving out large nations. Australia, Brasil, Canada, China, Russia and United States of America are not included."
+      "name": "Простой, но мощный",
+      "description": "Эта карта предназначена для того, чтобы добавить разнообразие в игру Geoguess, оставив большие народы. Австралия, Бразилия, Канада, Китай, Россия и Соединенные Штаты Америки не включены."
     },
     "urban": {
-      "name": "Urban World",
-      "description": "Area of dense human habitation. Derived from 2002-2003 MODIS satellite data."
+      "name": "Подземный мир",
+      "description": "Спутниковые данные МОДИС 2002-2003 годов."
     },
     "europe": {
-      "name": "Europe",
-      "description": "Europe without Russia"
+      "name": "Европа",
+      "description": "Европа без России"
     },
     "africa": {
-      "name": "Africa",
+      "name": "Африка",
       "description": ""
     },
     "asia": {
-      "name": "Asia",
+      "name": "Азия",
       "description": ""
     },
     "north-america": {
-      "name": "North America",
+      "name": "Северная Америка",
       "description": ""
     },
     "south-america": {
-      "name": "South America",
+      "name": "Южная Америка",
       "description": ""
     },
     "Oceania": {
-      "name": "Oceania",
+      "name": "Австралия",
       "description": ""
     },
     "inferno": {
-      "name": "Inferno",
-      "description": "2 complex cities 😵 : Santa Cruz de la Sierre (Bolivia) & Touba (Senegal)"
+      "name": "Ад",
+      "description": "2 сложные города 😵 Santa Cruz de la Sierre (Боливия) & Touba (Сенегал)"
     },
     "french-stations": {
-      "name": "French stations 🇫🇷",
-      "description": "The list of French passenger stations"
+      "name": "Французские станции 🇫🇷",
+      "description": "Список французских пассажирских станций"
     },
     "german-stations": {
-      "name": "German stations 🇩🇪",
-      "description": "German train stations."
+      "name": "Немецкие станции 🇩🇪",
+      "description": "Немецкие железнодорожные вокзалы."
     },
     "german-level-crossings": {
-      "name": "German Level Crossings 🇩🇪",
-      "description": "German Level Crossings"
+      "name": "Немецкие подземные переходы 🇩🇪",
+      "description": "Немецкие подземные переходы"
     },
     "big-airports": {
-      "name": "Big airports ✈️",
-      "description": "This map contains the largest airports (> 600) on the world."
+      "name": "Большие аэропорты ✈️",
+      "description": "Карта содержит крупнейшие аэропорты (> 600) по всему миру."
     },
     "german-football-stadiums": {
-      "name": "German football stadiums ⚽",
-      "description": "German football stadiums of clubs in the first (Bundesliga) to fourth (Regionalliga) leagues"
+      "name": "Футбольные стадионы Германии ⚽",
+      "description": "Немецкий футбольный стадион клубов в первой (Бундеслига) лиге (Регионаллига)"
     },
     "nordic-vibes": {
-      "name": "Nordic vibes",
-      "description": "Walk in the Nordic countries (Finland, Sweden, Denmark, Norway, Faroe Islands, Iceland)"
+      "name": "Скандинавская атмосфера",
+      "description": "Прогулка в странах Скандинавии (Финляндия, Швеция, Дания, Норвегия, Фарерские острова, Исландия)"
     }
   },
   "areas": {
+    "continent": {
+      "name": "Континент",
+      "description": ""
+    },
     "france-region": {
-      "name": "France Region",
+      "name": "Французский регион",
       "description": ""
     },
     "france-county": {
-      "name": "France County",
+      "name": "Французский округ",
       "description": ""
     },
     "usa-state": {
-      "name": "US States",
+      "name": "Штаты США",
       "description": ""
     },
     "tunisia-gouvenorate": {
-      "name": "Tunisia governorate",
+      "name": "Тунисская провинция",
       "description": ""
     },
     "italy-region": {
-      "name": "Italy Region",
+      "name": "Итальянский регион",
       "description": ""
     },
     "italy-county": {
-      "name": "Italy County",
+      "name": "Италия",
       "description": ""
     },
     "brazil-regio": {
-      "name": "Brazil States",
+      "name": "Штаты Бразилии",
       "description": ""
     },
     "mexico-state": {
-      "name": "Mexico States",
+      "name": "Штаты Мексики",
       "description": ""
     },
     "nantes": {
-      "name": "District of Nantes, France",
+      "name": "Район Нант, Франция",
       "description": ""
     },
-    "continent": {
-      "name": "Continent",
-      "description": ""
+    "biggest-cities": {
+      "name": "Крупнейший город (районы)",
+      "description": "Список 40 крупнейших городов мира: ПАРИЖ, КОБЕ ОСАКА, СЕУЛ, ХЬЮСТОН, БАРСЕЛОНА, ФИЛАДЕЛЬФИЯ, САНТЬЯГО, ЛАГОС, ДАЛЛАС, НЬЮ-ЙОРК, СТАНБУЛ, ТОКИО, ФУКУОКА, ЛОНДОН, КУАЛА-ЛУМПУР, ЛИМА, ХОШИМИН, МАНИЛУ, ГВАДАЛАХАРУ, МАДРИД, НАГОЮ, СИНГАПУР, ИОГАННЕСБУРГ, БЕЛУ-ГОРИЗОНТЕ, ТОРОНТО, МЕКСИКУ, МАЙАМИ, АТЛАНТУ, РИО-ДЕ-ЖАНЕЙРО, БУЭНОС-АЙРЕС, САО-ПАУЛУ, ЧИКАГО,…"
     }
   }
 }

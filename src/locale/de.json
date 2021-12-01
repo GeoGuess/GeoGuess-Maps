@@ -21,23 +21,23 @@
       "description": "Europa ohne Russland"
     },
     "africa": {
-      "name": "Africa",
+      "name": "Afrika",
       "description": ""
     },
     "asia": {
-      "name": "Asia",
+      "name": "Asien",
       "description": ""
     },
     "north-america": {
-      "name": "North America",
+      "name": "Nordamerika",
       "description": ""
     },
     "south-america": {
-      "name": "South America",
+      "name": "Südamerika",
       "description": ""
     },
     "Oceania": {
-      "name": "Oceania",
+      "name": "Ozeanien",
       "description": ""
     },
     "inferno": {
@@ -70,6 +70,10 @@
     }
   },
   "areas": {
+    "continent": {
+      "name": "Kontinent",
+      "description": ""
+    },
     "france-region": {
       "name": "Region Frankreich",
       "description": ""
@@ -95,20 +99,20 @@
       "description": ""
     },
     "brazil-regio": {
-      "name": "Brazil States",
+      "name": "Brasilianische Bundesstaaten",
       "description": ""
     },
     "mexico-state": {
-      "name": "Mexico States",
+      "name": "Mexikanische Bundesstaaten",
       "description": ""
     },
     "nantes": {
       "name": "Bezirk Nantes, Frankreich",
       "description": ""
     },
-    "continent": {
-      "name": "Kontinent",
-      "description": ""
+    "biggest-cities": {
+      "name": "Größte Stadt (Gebiete)",
+      "description": "Liste der 40 größten Städte der Welt: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKIO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO-CHI-MINH-STADT, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPUR, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
     }
   }
 }
