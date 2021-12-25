@@ -1,118 +1,118 @@
 {
   "maps": {
     "unesco": {
-      "name": "Unesco : World Heritage List",
+      "name": "Unesco : Dünya Mirası Listesi",
       "description": ""
     },
     "biggest-cities": {
-      "name": "Biggest City",
-      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "name": "Büyük Şehirler",
+      "description": "Dünyanın en büyük 40 şehrinin listesi: PARİS, KOBE OSAKA, SEUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, İSTANBUL, TOKYO, FUKUOKA, LONDRA, KUALA LUMPUR, LIMA, HO CHILANH CITY,, GUADALAJARA, MADRID, NAGOYA, SİNGAPUR, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
     },
     "small-powerful": {
-      "name": "Small But Powerful",
-      "description": "This map is designed to add variety to the game of Geoguess by leaving out large nations. Australia, Brasil, Canada, China, Russia and United States of America are not included."
+      "name": "Basit Ama Güçlü",
+      "description": "Bu harita, büyük ülkeleri hariç tutarak Geoguess oyununa çeşitlilik katmak için tasarlanmıştır. Avustralya, Brezilya, Kanada, Çin, Rusya ve Amerika Birleşik Devletleri dahil değildir."
     },
     "urban": {
-      "name": "Urban World",
-      "description": "Area of dense human habitation. Derived from 2002-2003 MODIS satellite data."
+      "name": "Dünya Şehirleri",
+      "description": "Yoğun insan yerleşim alanı. 2002-2003 MODIS uydu verilerinden türetilmiştir."
     },
     "europe": {
-      "name": "Europe",
-      "description": "Europe without Russia"
+      "name": "Avrupa",
+      "description": "Avrupa (Rusya Hariç)"
     },
     "africa": {
-      "name": "Africa",
+      "name": "Afrika",
       "description": ""
     },
     "asia": {
-      "name": "Asia",
+      "name": "Asya",
       "description": ""
     },
     "north-america": {
-      "name": "North America",
+      "name": "Kuzey Amerika",
       "description": ""
     },
     "south-america": {
-      "name": "South America",
+      "name": "Güney Amerika",
       "description": ""
     },
     "Oceania": {
-      "name": "Oceania",
+      "name": "Okyanusya",
       "description": ""
     },
     "inferno": {
-      "name": "Inferno",
-      "description": "2 complex cities 😵 : Santa Cruz de la Sierre (Bolivia) & Touba (Senegal)"
+      "name": "Cehennem",
+      "description": "2 karmaşık şehir 😵 : Santa Cruz de la Sierre (Bolivya) ve Touba (Senegal)"
     },
     "french-stations": {
-      "name": "French stations 🇫🇷",
-      "description": "The list of French passenger stations"
+      "name": "Fransız istasyonları 🇫🇷",
+      "description": "Fransız yolcu istasyonlarının listesi"
     },
     "german-stations": {
-      "name": "German stations 🇩🇪",
-      "description": "German train stations."
+      "name": "Alman istasyonları 🇩🇪",
+      "description": "Alman tren istasyonları."
     },
     "german-level-crossings": {
-      "name": "German Level Crossings 🇩🇪",
-      "description": "German Level Crossings"
+      "name": "Alman Hemzemin Geçitleri 🇩🇪",
+      "description": "Alman Hemzemin Geçitleri"
     },
     "big-airports": {
-      "name": "Big airports ✈️",
-      "description": "This map contains the largest airports (> 600) on the world."
+      "name": "Büyük havaalanları ✈️",
+      "description": "Bu harita dünyadaki en büyük havaalanlarını (> 600) içerir."
     },
     "german-football-stadiums": {
-      "name": "German football stadiums ⚽",
-      "description": "German football stadiums of clubs in the first (Bundesliga) to fourth (Regionalliga) leagues"
+      "name": "Alman futbol stadyumları ⚽",
+      "description": "Birinci (Bundesliga) ile dördüncü (Regionalliga) liglerindeki kulüplerin Alman futbol stadyumları"
     },
     "nordic-vibes": {
-      "name": "Nordic vibes",
-      "description": "Walk in the Nordic countries (Finland, Sweden, Denmark, Norway, Faroe Islands, Iceland)"
+      "name": "İskandinav esintileri",
+      "description": "İskandinav ülkelerinde yürüyüş yapın (Finlandiya, İsveç, Danimarka, Norveç, Faroe Adaları, İzlanda)"
     }
   },
   "areas": {
     "continent": {
-      "name": "Continent",
+      "name": "Kıta",
       "description": ""
     },
     "france-region": {
-      "name": "France Region",
+      "name": "Fransa Bölgesi",
       "description": ""
     },
     "france-county": {
-      "name": "France County",
+      "name": "Fransa",
       "description": ""
     },
     "usa-state": {
-      "name": "US States",
+      "name": "ABD Eyaletleri",
       "description": ""
     },
     "tunisia-gouvenorate": {
-      "name": "Tunisia governorate",
+      "name": "Tunus",
       "description": ""
     },
     "italy-region": {
-      "name": "Italy Region",
+      "name": "İtalya Bölgesi",
       "description": ""
     },
     "italy-county": {
-      "name": "Italy County",
+      "name": "İtalya",
       "description": ""
     },
     "brazil-regio": {
-      "name": "Brazil States",
+      "name": "Brezilya Eyaletleri",
       "description": ""
     },
     "mexico-state": {
-      "name": "Mexico States",
+      "name": "Meksika Eyaletleri",
       "description": ""
     },
     "nantes": {
-      "name": "District of Nantes, France",
+      "name": "Nantes Bölgesi, Fransa",
       "description": ""
     },
     "biggest-cities": {
-      "name": "Biggest City (areas)",
-      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "name": "En Büyük Şehirler (Yüzölçümü)",
+      "description": "Dünyanın en büyük 40 şehrinin listesi: PARİS, KOBE OSAKA, SEUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, İSTANBUL, TOKYO, FUKUOKA, LONDRA, KUALA LUMPUR, LIMA, HO CHILANH CITY,, GUADALAJARA, MADRID, NAGOYA, SİNGAPUR, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
     }
   }
 }
