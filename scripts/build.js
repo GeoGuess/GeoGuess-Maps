@@ -34,6 +34,7 @@ function main(err, files) {
 	
 	function getContent(maps, mapKey, type) {
 		let map = maps[mapKey]
+    map.id = mapKey;
 		for (const key of ["name", "description"]) {
       const content = map[key];
 			map[key] = i18nContent.reduce((acc, lang) => {
@@ -43,7 +44,6 @@ function main(err, files) {
         return acc;
       }, {});
       map[key][DEFAULT_LANG] = content;
-      
     }
 		return map
 	}
