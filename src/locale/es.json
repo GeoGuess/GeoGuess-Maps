@@ -1,0 +1,118 @@
+{
+  "maps": {
+    "unesco": {
+      "name": "Unesco : World Heritage List",
+      "description": ""
+    },
+    "biggest-cities": {
+      "name": "Biggest City",
+      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+    },
+    "small-powerful": {
+      "name": "Small But Powerful",
+      "description": "This map is designed to add variety to the game of Geoguess by leaving out large nations. Australia, Brasil, Canada, China, Russia and United States of America are not included."
+    },
+    "urban": {
+      "name": "Urban World",
+      "description": "Area of dense human habitation. Derived from 2002-2003 MODIS satellite data."
+    },
+    "europe": {
+      "name": "Europe",
+      "description": "Europe without Russia"
+    },
+    "africa": {
+      "name": "Africa",
+      "description": ""
+    },
+    "asia": {
+      "name": "Asia",
+      "description": ""
+    },
+    "north-america": {
+      "name": "North America",
+      "description": ""
+    },
+    "south-america": {
+      "name": "South America",
+      "description": ""
+    },
+    "Oceania": {
+      "name": "Oceania",
+      "description": ""
+    },
+    "inferno": {
+      "name": "Inferno",
+      "description": "2 complex cities 😵 : Santa Cruz de la Sierre (Bolivia) & Touba (Senegal)"
+    },
+    "french-stations": {
+      "name": "French stations 🇫🇷",
+      "description": "The list of French passenger stations"
+    },
+    "german-stations": {
+      "name": "German stations 🇩🇪",
+      "description": "German train stations."
+    },
+    "german-level-crossings": {
+      "name": "German Level Crossings 🇩🇪",
+      "description": "German Level Crossings"
+    },
+    "big-airports": {
+      "name": "Big airports ✈️",
+      "description": "This map contains the largest airports (> 600) on the world."
+    },
+    "german-football-stadiums": {
+      "name": "German soccer stadiums ⚽",
+      "description": "German soccer stadiums of clubs in the first (Bundesliga) to fourth (Regionalliga) leagues"
+    },
+    "nordic-vibes": {
+      "name": "Nordic vibes",
+      "description": "Walk in the Nordic countries (Finland, Sweden, Denmark, Norway, Faroe Islands, Iceland)"
+    }
+  },
+  "areas": {
+    "continent": {
+      "name": "Continent",
+      "description": ""
+    },
+    "france-region": {
+      "name": "France Region",
+      "description": ""
+    },
+    "france-county": {
+      "name": "France County",
+      "description": ""
+    },
+    "usa-state": {
+      "name": "US States",
+      "description": ""
+    },
+    "tunisia-gouvenorate": {
+      "name": "Tunisia governorate",
+      "description": ""
+    },
+    "italy-region": {
+      "name": "Italy Region",
+      "description": ""
+    },
+    "italy-county": {
+      "name": "Italy County",
+      "description": ""
+    },
+    "brazil-regio": {
+      "name": "Brazil States",
+      "description": ""
+    },
+    "mexico-state": {
+      "name": "Mexico States",
+      "description": ""
+    },
+    "nantes": {
+      "name": "District of Nantes, France",
+      "description": ""
+    },
+    "biggest-cities": {
+      "name": "Biggest City (areas)",
+      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+    }
+  }
+}
