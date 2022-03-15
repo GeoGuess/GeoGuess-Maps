@@ -1,15 +1,15 @@
 {
   "maps": {
     "unesco": {
-      "name": "UNESCO: World Heritage List",
+      "name": "Unesco : World Heritage List",
       "description": ""
     },
     "biggest-cities": {
       "name": "Biggest City",
-      "description": "List of the 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
     },
     "small-powerful": {
-      "name": "Small but Powerful",
+      "name": "Small But Powerful",
       "description": "This map is designed to add variety to the game of Geoguess by leaving out large nations. Australia, Brasil, Canada, China, Russia and United States of America are not included."
     },
     "urban": {
@@ -42,14 +42,14 @@
     },
     "inferno": {
       "name": "Inferno",
-      "description": "2 complex cities 😵: Santa Cruz de la Sierre (Bolivia) & Touba (Senegal)"
+      "description": "2 complex cities 😵 : Santa Cruz de la Sierre (Bolivia) & Touba (Senegal)"
     },
     "french-stations": {
       "name": "French stations 🇫🇷",
-      "description": "List of French passenger stations"
+      "description": "The list of French passenger stations"
     },
     "german-stations": {
-      "name": "German train stations 🇩🇪",
+      "name": "German stations 🇩🇪",
       "description": "German train stations."
     },
     "german-level-crossings": {
@@ -57,12 +57,12 @@
       "description": "German Level Crossings"
     },
     "big-airports": {
-      "name": "Major Airports ✈️",
-      "description": "This map contains the largest airports (>600) in the world."
+      "name": "Big airports ✈️",
+      "description": "This map contains the largest airports (> 600) on the world."
     },
     "german-football-stadiums": {
-      "name": "German Football Stadiums ⚽",
-      "description": "German football stadiums of clubs in the first (Bundesliga) to fourth (Regionalliga) leagues"
+      "name": "German soccer stadiums ⚽",
+      "description": "German soccer stadiums of clubs in the first (Bundesliga) to fourth (Regionalliga) leagues"
     },
     "nordic-vibes": {
       "name": "Nordic vibes",
@@ -112,7 +112,7 @@
     },
     "biggest-cities": {
       "name": "Biggest City (areas)",
-      "description": "List of the 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
     }
   }
 }
