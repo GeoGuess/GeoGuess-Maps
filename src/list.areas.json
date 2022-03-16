@@ -198,5 +198,37 @@
                 "accept-language": "en"
             }
         }
+    },
+    "spain-autonomous-communities": {
+        "name": "Spain autonomous communities",
+        "description": "",
+        "author": "Rukant",
+        "data": {
+            "urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/spain_autonomous_communities.geojson",
+            "type": "nominatim",
+            "pathKey": "NAME_1",
+            "nominatimResultPath": "address.state",
+            "nominatimQueryParams": {
+                "zoom": "5",
+                "addressdetails": "1",
+                "accept-language": "es"
+            }
+        }
+    },
+    "spain-provinces": {
+        "name": "Spain provinces",
+        "description": "",
+        "author": "Rukant",
+        "data": {
+            "urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/spain_provinces.geojson",
+            "type": "nominatim",
+            "pathKey": "provincia",
+            "nominatimResultPath": "address.state_district",
+            "nominatimQueryParams": {
+                "zoom": "8",
+                "addressdetails": "1",
+                "accept-language": "es"
+            }
+        },
     }
 }
