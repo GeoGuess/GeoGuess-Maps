@@ -6,22 +6,22 @@
     },
     "biggest-cities": {
       "name": "Ciudades grandes",
-      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "description": "Listado de las 40 ciudades más grandes del mundo: PARÍS, KOBE OSAKA, SEÚL, HOUSTON, BARCELONA, FILADELFIA, SANTIAGO, LAGOS, DALLAS, NUEVA YORK, ESTAMBUL, TOKIO, FUKUOKA, LONDRES, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPUR, JOHANNESBURGO, BELO HORIZONTE, TORONTO, CIUDAD DE MÉXICO, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
     },
     "small-powerful": {
-      "name": "Small But Powerful",
-      "description": "This map is designed to add variety to the game of Geoguess by leaving out large nations. Australia, Brasil, Canada, China, Russia and United States of America are not included."
+      "name": "Pequeño pero Poderoso",
+      "description": "Este mapa está diseñado para añadir variedad al juego Geoguess, dejando fuera a grandes naciones. Australia, Brasil, Canadá, China, Rusia y los Estados Unidos de América no están incluidos."
     },
     "urban": {
-      "name": "Urban World",
-      "description": "Area of dense human habitation. Derived from 2002-2003 MODIS satellite data."
+      "name": "Mundo Urbano",
+      "description": "Área con alta densidad de población. Derivada de 2002-2003 MODIS datos de satélite."
     },
     "europe": {
-      "name": "Europe",
-      "description": "Europe without Russia"
+      "name": "Europa",
+      "description": "Europa sin Rusia"
     },
     "africa": {
-      "name": "Africa",
+      "name": "África",
       "description": ""
     },
     "asia": {
@@ -29,97 +29,97 @@
       "description": ""
     },
     "north-america": {
-      "name": "North America",
+      "name": "Norte América",
       "description": ""
     },
     "south-america": {
-      "name": "South America",
+      "name": "Sudamérica",
       "description": ""
     },
     "Oceania": {
-      "name": "Oceania",
+      "name": "Oceanía",
       "description": ""
     },
     "inferno": {
       "name": "Inferno",
-      "description": "2 complex cities 😵 : Santa Cruz de la Sierre (Bolivia) & Touba (Senegal)"
+      "description": "2 ciudades complejas 😵 : Santa Cruz de la Sierra (Bolivia) & Touba (Senegal)"
     },
     "french-stations": {
-      "name": "French stations 🇫🇷",
-      "description": "The list of French passenger stations"
+      "name": "Estaciones francesas 🇫🇷",
+      "description": "Lista de estaciones de pasajeros francesas"
     },
     "german-stations": {
-      "name": "German stations 🇩🇪",
-      "description": "German train stations."
+      "name": "Estaciones alemanas 🇩🇪",
+      "description": "Estaciones de tren alemanas."
     },
     "german-level-crossings": {
-      "name": "German Level Crossings 🇩🇪",
-      "description": "German Level Crossings"
+      "name": "Cruces de nivel alemanes 🇩🇪",
+      "description": "Cruces de nivel alemanes"
     },
     "big-airports": {
-      "name": "Big airports ✈️",
-      "description": "This map contains the largest airports (> 600) on the world."
+      "name": "Grandes aeropuertos ✈️",
+      "description": "Este mapa contiene los aeropuertos más grandes (> 600) del mundo."
     },
     "german-football-stadiums": {
-      "name": "German football stadiums ⚽",
-      "description": "German football stadiums of clubs in the first (Bundesliga) to fourth (Regionalliga) leagues"
+      "name": "Estadios de fútbol alemanes ⚽",
+      "description": "Estadios de los clubes de fútbol alemanes desde primera (Bundesliga) a cuarta (Regionalliga) división"
     },
     "nordic-vibes": {
-      "name": "Nordic vibes",
-      "description": "Walk in the Nordic countries (Finland, Sweden, Denmark, Norway, Faroe Islands, Iceland)"
+      "name": "Ambiente nórdico",
+      "description": "Camina por los países nórdicos (Finlandia, Suecia, Dinamarca, Noruega, Islas Faroe, Islandia)"
     }
   },
   "areas": {
     "continent": {
-      "name": "Continent",
+      "name": "Continente",
       "description": ""
     },
     "france-region": {
-      "name": "France Region",
+      "name": "Regiones de Francia",
       "description": ""
     },
     "france-county": {
-      "name": "France County",
+      "name": "Departamentos de Francia",
       "description": ""
     },
     "usa-state": {
-      "name": "US States",
+      "name": "Estados de EEUU",
       "description": ""
     },
     "tunisia-gouvenorate": {
-      "name": "Tunisia governorate",
+      "name": "Governoratos de Tunisia",
       "description": ""
     },
     "italy-region": {
-      "name": "Italy Region",
+      "name": "Regiones de Italia",
       "description": ""
     },
     "italy-county": {
-      "name": "Italy County",
+      "name": "Provincias de Italia",
       "description": ""
     },
     "brazil-regio": {
-      "name": "Brazil States",
+      "name": "Estados de Brasil",
       "description": ""
     },
     "mexico-state": {
-      "name": "Mexico States",
+      "name": "Estados de México",
       "description": ""
     },
     "nantes": {
-      "name": "District of Nantes, France",
+      "name": "Distrito de Nantes, Francia",
       "description": ""
     },
     "biggest-cities": {
-      "name": "Biggest City (areas)",
-      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "name": "Las ciudades más grandes del mundo (áreas)",
+      "description": "Listado de las 40 ciudades más grandes del mundo: PARÍS, KOBE OSAKA, SEÚL, HOUSTON, BARCELONA, FILADELFIA, SANTIAGO, LAGOS, DALLAS, NUEVA YORK, ESTAMBUL, TOKIO, FUKUOKA, LONDRES, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPUR, JOHANNESBURGO, BELO HORIZONTE, TORONTO, CIUDAD DE MÉXICO, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
     },
     "spain-autonomous-communities": {
-      "name": "Spain autonomous communities",
+      "name": "Comunidades autónomas de España",
       "description": ""
     },
     "spain-provinces": {
-      "name": "Spain provinces",
+      "name": "Provincias de España",
       "description": ""
     }
   }
