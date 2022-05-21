@@ -61,8 +61,8 @@
       "description": "Cette carte contient les plus grands aéroports (> 600) du monde."
     },
     "german-football-stadiums": {
-      "name": "German football stadiums ⚽",
-      "description": "German football stadiums of clubs in the first (Bundesliga) to fourth (Regionalliga) leagues"
+      "name": "Stades de football allemands ⚽",
+      "description": "Stades de football allemands pour les clubs de la première (Bundesliga) à la quatrième (Regionalliga) ligues"
     },
     "nordic-vibes": {
       "name": "Ambiance nordique",
@@ -115,11 +115,11 @@
       "description": "Une liste de plus de 40 villes : PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
     },
     "spain-autonomous-communities": {
-      "name": "Spain autonomous communities",
+      "name": "Communautés autonomes d'Espagne",
       "description": ""
     },
     "spain-provinces": {
-      "name": "Spain provinces",
+      "name": "Provinces d'Espagne",
       "description": ""
     }
   }
