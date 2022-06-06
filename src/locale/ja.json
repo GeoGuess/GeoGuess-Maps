@@ -1,39 +1,39 @@
 {
   "maps": {
     "unesco": {
-      "name": "Unesco : World Heritage List",
+      "name": "ユネスコ世界遺産一覧",
       "description": ""
     },
     "biggest-cities": {
-      "name": "Biggest City",
-      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "name": "最大の都市",
+      "description": "世界40大都市のリスト:パリ、神戸大坂、ソウル、ホストン、バルセロナ、フィリップス。 SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HOCHI MINH CITY, マニラ, グアダラハラ, マドリード, ナゴヤ, シンガポール, ジョハンバーグ, ベロ・ホリゾンテ TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
     },
     "small-powerful": {
-      "name": "Small But Powerful",
-      "description": "This map is designed to add variety to the game of Geoguess by leaving out large nations. Australia, Brasil, Canada, China, Russia and United States of America are not included."
+      "name": "小さいが強力な",
+      "description": "このマップは、大国を離れることによって、Geoguess のゲームに多様性を追加するように設計されています。 オーストラリア、ブラジル、カナダ、中国、ロシア、アメリカは含まれていません。"
     },
     "urban": {
-      "name": "Urban World",
-      "description": "Area of dense human habitation. Derived from 2002-2003 MODIS satellite data."
+      "name": "都市の世界",
+      "description": "密度の高い人間の居住エリア. から派生しました 2002-2003 MODIS衛星データ."
     },
     "europe": {
-      "name": "Europe",
-      "description": "Europe without Russia"
+      "name": "ヨーロッパ",
+      "description": "ロシアのいないヨーロッパ"
     },
     "africa": {
-      "name": "Africa",
+      "name": "アフリカ",
       "description": ""
     },
     "asia": {
-      "name": "Asia",
+      "name": "アジア",
       "description": ""
     },
     "north-america": {
-      "name": "North America",
+      "name": "北アメリカ",
       "description": ""
     },
     "south-america": {
-      "name": "South America",
+      "name": "南アフリカ",
       "description": ""
     },
     "Oceania": {
@@ -41,85 +41,85 @@
       "description": ""
     },
     "inferno": {
-      "name": "Inferno",
-      "description": "2 complex cities 😵 : Santa Cruz de la Sierre (Bolivia) & Touba (Senegal)"
+      "name": "インフェルノ",
+      "description": "2つの複雑な都市 :dimysy_face: : Santa Cruz de la Sierre (ボリビア) & Touba (セネガル)"
     },
     "french-stations": {
-      "name": "French stations 🇫🇷",
-      "description": "The list of French passenger stations"
+      "name": "フランスの駅:フランス",
+      "description": "フランスの旅客駅一覧"
     },
     "german-stations": {
-      "name": "German stations 🇩🇪",
-      "description": "German train stations."
+      "name": "ドイツの駅:ドイツ:",
+      "description": "ドイツの駅。"
     },
     "german-level-crossings": {
-      "name": "German Level Crossings 🇩🇪",
-      "description": "German Level Crossings"
+      "name": "ドイツ語レベルクロッシング:ドイツ語:",
+      "description": "ドイツ語レベルのクロッシングス"
     },
     "big-airports": {
-      "name": "Big airports ✈️",
-      "description": "This map contains the largest airports (> 600) on the world."
+      "name": "大型空港 ✈️",
+      "description": "この地図には世界最大の空港（600以上）があります。"
     },
     "german-football-stadiums": {
-      "name": "German football stadiums ⚽",
-      "description": "German football stadiums of clubs in the first (Bundesliga) to fourth (Regionalliga) leagues"
+      "name": "ドイツのサッカースタジアム⚽",
+      "description": "第1リーグから第4リーグ(リーグ)までのクラブのドイツサッカースタジアム。"
     },
     "nordic-vibes": {
       "name": "Nordic vibes",
-      "description": "Walk in the Nordic countries (Finland, Sweden, Denmark, Norway, Faroe Islands, Iceland)"
+      "description": "北欧諸国を歩く（フィンランド、スウェーデン、デンマーク、ノルウェー、フェロー諸島、アイスランド）"
     }
   },
   "areas": {
     "continent": {
-      "name": "Continent",
+      "name": "コンチネンタル",
       "description": ""
     },
     "france-region": {
-      "name": "France Region",
+      "name": "フランス地域",
       "description": ""
     },
     "france-county": {
-      "name": "France County",
+      "name": "フランス 県",
       "description": ""
     },
     "usa-state": {
-      "name": "US States",
+      "name": "アメリカ州",
       "description": ""
     },
     "tunisia-gouvenorate": {
-      "name": "Tunisia governorate",
+      "name": "チュニジアのガバナ",
       "description": ""
     },
     "italy-region": {
-      "name": "Italy Region",
+      "name": "イタリア地域",
       "description": ""
     },
     "italy-county": {
-      "name": "Italy County",
+      "name": "イタリア郡",
       "description": ""
     },
     "brazil-regio": {
-      "name": "Brazil States",
+      "name": "ブラジル州",
       "description": ""
     },
     "mexico-state": {
-      "name": "Mexico States",
+      "name": "メキシコ州",
       "description": ""
     },
     "nantes": {
-      "name": "District of Nantes, France",
+      "name": "フランスのナント地区",
       "description": ""
     },
     "biggest-cities": {
-      "name": "Biggest City (areas)",
-      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "name": "最大の都市（エリア）",
+      "description": "世界40大都市のリスト:パリ、神戸大坂、ソウル、ホストン、バルセロナ、フィリップス。 SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HOCHI MINH CITY, マニラ, グアダラハラ, マドリード, ナゴヤ, シンガポール, ジョハンバーグ, ベロ・ホリゾンテ TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
     },
     "spain-autonomous-communities": {
-      "name": "Spain autonomous communities",
+      "name": "スペインの自律型コミュニティ",
       "description": ""
     },
     "spain-provinces": {
-      "name": "Spain provinces",
+      "name": "スペインの州",
       "description": ""
     }
   }
