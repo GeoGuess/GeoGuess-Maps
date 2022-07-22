@@ -10,30 +10,30 @@
     },
     "small-powerful": {
       "name": "Mały Ale Potężny",
-      "description": "This map is designed to add variety to the game of Geoguess by leaving out large nations. Australia, Brasil, Canada, China, Russia and United States of America are not included."
+      "description": "Ta mapa jest zaprojektowana, aby dodać różnorodność do gry Geoguess nieuwzględniając większych narodów. Australia, Brazylia, Kanada, Chiny, Rosji i Stany Zjednoczone nie są uwzględnione."
     },
     "urban": {
-      "name": "Urban World",
-      "description": "Area of dense human habitation. Derived from 2002-2003 MODIS satellite data."
+      "name": "Miejski Świat",
+      "description": "Obszar gęsto zaludnionych siedlisk ludzkich. Dane satelitarne MODIS z lat 2002–2003."
     },
     "europe": {
-      "name": "Europe",
-      "description": "Europe without Russia"
+      "name": "Europa",
+      "description": "Europa bez Rosji"
     },
     "africa": {
-      "name": "Africa",
+      "name": "Afryka",
       "description": ""
     },
     "asia": {
-      "name": "Asia",
+      "name": "Azja",
       "description": ""
     },
     "north-america": {
-      "name": "North America",
+      "name": "Ameryka Północna",
       "description": ""
     },
     "south-america": {
-      "name": "South America",
+      "name": "Ameryka Południowa",
       "description": ""
     },
     "Oceania": {
@@ -42,40 +42,40 @@
     },
     "inferno": {
       "name": "Inferno",
-      "description": "2 complex cities 😵 : Santa Cruz de la Sierre (Bolivia) & Touba (Senegal)"
+      "description": "2 złożone miasta 😵 : Santa Cruz de la Sierre (Boliwia) i Touba (Senegal)"
     },
     "french-stations": {
-      "name": "French stations 🇫🇷",
-      "description": "The list of French passenger stations"
+      "name": "Stacje francuskie 🇫🇷",
+      "description": "Lista francuskich stacji pasażerskich"
     },
     "german-stations": {
-      "name": "German stations 🇩🇪",
-      "description": "German train stations."
+      "name": "Stacje niemieckie 🇩🇪",
+      "description": "Niemieckie stacje kolejowe."
     },
     "german-level-crossings": {
-      "name": "German Level Crossings 🇩🇪",
-      "description": "German Level Crossings"
+      "name": "Niemieckie przejazdy kolejowe 🇩🇪",
+      "description": "Niemieckie przejazdy kolejowe"
     },
     "big-airports": {
-      "name": "Big airports ✈️",
-      "description": "This map contains the largest airports (> 600) on the world."
+      "name": "Duże lotniska ✈️",
+      "description": "Ta mapa zawiera największe lotniska (> 600) na świecie."
     },
     "german-football-stadiums": {
-      "name": "German football stadiums ⚽",
-      "description": "German football stadiums of clubs in the first (Bundesliga) to fourth (Regionalliga) leagues"
+      "name": "Niemieckie stadiony piłkarskie ⚽",
+      "description": "Niemieckie stadiony piłkarskie klubów od pierwszej (Bundesliga) do czwartej (Regionalliga) ligi"
     },
     "nordic-vibes": {
       "name": "Nordic vibes",
-      "description": "Walk in the Nordic countries (Finland, Sweden, Denmark, Norway, Faroe Islands, Iceland)"
+      "description": "Spacer w Krajach nordyckich (Finlandia, Szwecja, Dania, Norwegia, Wyspy Owcze, Islandia)"
     }
   },
   "areas": {
     "continent": {
-      "name": "Continent",
+      "name": "Kontynent",
       "description": ""
     },
     "france-region": {
-      "name": "France Region",
+      "name": "Region Francji",
       "description": ""
     },
     "france-county": {
@@ -83,15 +83,15 @@
       "description": ""
     },
     "usa-state": {
-      "name": "US States",
+      "name": "Stany Zjednoczone",
       "description": ""
     },
     "tunisia-gouvenorate": {
-      "name": "Tunisia governorate",
+      "name": "Gubernator Tunezji",
       "description": ""
     },
     "italy-region": {
-      "name": "Italy Region",
+      "name": "Region Włoch",
       "description": ""
     },
     "italy-county": {
@@ -111,15 +111,15 @@
       "description": ""
     },
     "biggest-cities": {
-      "name": "Biggest City (areas)",
-      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "name": "Największe Miasta (obszary)",
+      "description": "Lista 40 największych miast na świecie: PARYŻ, KOBE OSAKA, SEUL, HOUSTON, BARCELONA, FILADELFIA SANTIAGO, LAGOS, DALLAS, NOWY JORK, ISTANBUL, TOKIO, FUKUOKA, LONDYN, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRYT, NAGOYA, SINGAPUR, JOHANNESBURG, BELO HORIZONTE, TORONTO, MIASTO MEKSYK, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
     },
     "spain-autonomous-communities": {
-      "name": "Spain autonomous communities",
+      "name": "Hiszpańskie autonomiczne społeczności",
       "description": ""
     },
     "spain-provinces": {
-      "name": "Spain provinces",
+      "name": "Prowincje Hiszpanii",
       "description": ""
     }
   }
