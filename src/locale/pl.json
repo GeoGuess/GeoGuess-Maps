@@ -65,7 +65,7 @@
       "description": "Niemieckie stadiony piłkarskie klubów od pierwszej (Bundesliga) do czwartej (Regionalliga) ligi"
     },
     "nordic-vibes": {
-      "name": "Nordic vibes",
+      "name": "Nordycki vibe",
       "description": "Spacer w Krajach nordyckich (Finlandia, Szwecja, Dania, Norwegia, Wyspy Owcze, Islandia)"
     }
   },
@@ -79,7 +79,7 @@
       "description": ""
     },
     "france-county": {
-      "name": "France County",
+      "name": "Hrabstwo Francji",
       "description": ""
     },
     "usa-state": {
@@ -95,19 +95,19 @@
       "description": ""
     },
     "italy-county": {
-      "name": "Italy County",
+      "name": "Hrabstwo Włoch",
       "description": ""
     },
     "brazil-regio": {
-      "name": "Brazil States",
+      "name": "Stany Brazylii",
       "description": ""
     },
     "mexico-state": {
-      "name": "Mexico States",
+      "name": "Stany Meksyku",
       "description": ""
     },
     "nantes": {
-      "name": "District of Nantes, France",
+      "name": "Dystrykt Nantes, Francja",
       "description": ""
     },
     "biggest-cities": {
