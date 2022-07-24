@@ -1,0 +1,126 @@
+{
+  "maps": {
+    "unesco": {
+      "name": "Unesco : Lista de Patrimonio de la humanidad",
+      "description": ""
+    },
+    "biggest-cities": {
+      "name": "Ciudades grandes",
+      "description": "Listado de las 40 ciudades más grandes del mundo: PARÍS, KOBE OSAKA, SEÚL, HOUSTON, BARCELONA, FILADELFIA, SANTIAGO, LAGOS, DALLAS, NUEVA YORK, ESTAMBUL, TOKIO, FUKUOKA, LONDRES, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPUR, JOHANNESBURGO, BELO HORIZONTE, TORONTO, CIUDAD DE MÉXICO, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+    },
+    "small-powerful": {
+      "name": "Pequeño pero Poderoso",
+      "description": "Este mapa está diseñado para añadir variedad al juego Geoguess, dejando fuera a grandes naciones. Australia, Brasil, Canadá, China, Rusia y los Estados Unidos de América no están incluidos."
+    },
+    "urban": {
+      "name": "Mundo Urbano",
+      "description": "Área con alta densidad de población. Derivada de 2002-2003 MODIS datos de satélite."
+    },
+    "europe": {
+      "name": "Europa",
+      "description": "Europa sin Rusia"
+    },
+    "africa": {
+      "name": "África",
+      "description": ""
+    },
+    "asia": {
+      "name": "Asia",
+      "description": ""
+    },
+    "north-america": {
+      "name": "Norte América",
+      "description": ""
+    },
+    "south-america": {
+      "name": "Sudamérica",
+      "description": ""
+    },
+    "Oceania": {
+      "name": "Oceanía",
+      "description": ""
+    },
+    "inferno": {
+      "name": "Inferno",
+      "description": "2 ciudades complejas 😵 : Santa Cruz de la Sierra (Bolivia) & Touba (Senegal)"
+    },
+    "french-stations": {
+      "name": "Estaciones francesas 🇫🇷",
+      "description": "Lista de estaciones de pasajeros francesas"
+    },
+    "german-stations": {
+      "name": "Estaciones alemanas 🇩🇪",
+      "description": "Estaciones de tren alemanas."
+    },
+    "german-level-crossings": {
+      "name": "Cruces de nivel alemanes 🇩🇪",
+      "description": "Cruces de nivel alemanes"
+    },
+    "big-airports": {
+      "name": "Grandes aeropuertos ✈️",
+      "description": "Este mapa contiene los aeropuertos más grandes (> 600) del mundo."
+    },
+    "german-football-stadiums": {
+      "name": "Estadios de fútbol alemanes ⚽",
+      "description": "Estadios de los clubes de fútbol alemanes desde primera (Bundesliga) a cuarta (Regionalliga) división"
+    },
+    "nordic-vibes": {
+      "name": "Ambiente nórdico",
+      "description": "Camina por los países nórdicos (Finlandia, Suecia, Dinamarca, Noruega, Islas Faroe, Islandia)"
+    }
+  },
+  "areas": {
+    "continent": {
+      "name": "Continente",
+      "description": ""
+    },
+    "france-region": {
+      "name": "Regiones de Francia",
+      "description": ""
+    },
+    "france-county": {
+      "name": "Departamentos de Francia",
+      "description": ""
+    },
+    "usa-state": {
+      "name": "Estados de EEUU",
+      "description": ""
+    },
+    "tunisia-gouvenorate": {
+      "name": "Governoratos de Tunisia",
+      "description": ""
+    },
+    "italy-region": {
+      "name": "Regiones de Italia",
+      "description": ""
+    },
+    "italy-county": {
+      "name": "Provincias de Italia",
+      "description": ""
+    },
+    "brazil-regio": {
+      "name": "Estados de Brasil",
+      "description": ""
+    },
+    "mexico-state": {
+      "name": "Estados de México",
+      "description": ""
+    },
+    "nantes": {
+      "name": "Distrito de Nantes, Francia",
+      "description": ""
+    },
+    "biggest-cities": {
+      "name": "Las ciudades más grandes del mundo (áreas)",
+      "description": "Listado de las 40 ciudades más grandes del mundo: PARÍS, KOBE OSAKA, SEÚL, HOUSTON, BARCELONA, FILADELFIA, SANTIAGO, LAGOS, DALLAS, NUEVA YORK, ESTAMBUL, TOKIO, FUKUOKA, LONDRES, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPUR, JOHANNESBURGO, BELO HORIZONTE, TORONTO, CIUDAD DE MÉXICO, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+    },
+    "spain-autonomous-communities": {
+      "name": "Comunidades autónomas de España",
+      "description": ""
+    },
+    "spain-provinces": {
+      "name": "Provincias de España",
+      "description": ""
+    }
+  }
+}

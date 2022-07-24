@@ -1,0 +1,126 @@
+{
+  "maps": {
+    "unesco": {
+      "name": "Unesco : Lista dziedzictwa światowego",
+      "description": ""
+    },
+    "biggest-cities": {
+      "name": "Największe Miasto",
+      "description": "Lista 40 największych miast na świecie: PARYŻ, KOBE OSAKA, SEUL, HOUSTON, BARCELONA, FILADELFIA SANTIAGO, LAGOS, DALLAS, NOWY JORK, ISTANBUL, TOKIO, FUKUOKA, LONDYN, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRYT, NAGOYA, SINGAPUR, JOHANNESBURG, BELO HORIZONTE, TORONTO, MIASTO MEKSYK, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+    },
+    "small-powerful": {
+      "name": "Mały Ale Potężny",
+      "description": "Ta mapa jest zaprojektowana, aby dodać różnorodność do gry Geoguess nieuwzględniając większych narodów. Australia, Brazylia, Kanada, Chiny, Rosji i Stany Zjednoczone nie są uwzględnione."
+    },
+    "urban": {
+      "name": "Miejski Świat",
+      "description": "Obszar gęsto zaludnionych siedlisk ludzkich. Dane satelitarne MODIS z lat 2002–2003."
+    },
+    "europe": {
+      "name": "Europa",
+      "description": "Europa bez Rosji"
+    },
+    "africa": {
+      "name": "Afryka",
+      "description": ""
+    },
+    "asia": {
+      "name": "Azja",
+      "description": ""
+    },
+    "north-america": {
+      "name": "Ameryka Północna",
+      "description": ""
+    },
+    "south-america": {
+      "name": "Ameryka Południowa",
+      "description": ""
+    },
+    "Oceania": {
+      "name": "Oceania",
+      "description": ""
+    },
+    "inferno": {
+      "name": "Inferno",
+      "description": "2 złożone miasta 😵 : Santa Cruz de la Sierre (Boliwia) i Touba (Senegal)"
+    },
+    "french-stations": {
+      "name": "Stacje francuskie 🇫🇷",
+      "description": "Lista francuskich stacji pasażerskich"
+    },
+    "german-stations": {
+      "name": "Stacje niemieckie 🇩🇪",
+      "description": "Niemieckie stacje kolejowe."
+    },
+    "german-level-crossings": {
+      "name": "Niemieckie przejazdy kolejowe 🇩🇪",
+      "description": "Niemieckie przejazdy kolejowe"
+    },
+    "big-airports": {
+      "name": "Duże lotniska ✈️",
+      "description": "Ta mapa zawiera największe lotniska (> 600) na świecie."
+    },
+    "german-football-stadiums": {
+      "name": "Niemieckie stadiony piłkarskie ⚽",
+      "description": "Niemieckie stadiony piłkarskie klubów od pierwszej (Bundesliga) do czwartej (Regionalliga) ligi"
+    },
+    "nordic-vibes": {
+      "name": "Nordycki vibe",
+      "description": "Spacer w Krajach nordyckich (Finlandia, Szwecja, Dania, Norwegia, Wyspy Owcze, Islandia)"
+    }
+  },
+  "areas": {
+    "continent": {
+      "name": "Kontynent",
+      "description": ""
+    },
+    "france-region": {
+      "name": "Region Francji",
+      "description": ""
+    },
+    "france-county": {
+      "name": "Hrabstwo Francji",
+      "description": ""
+    },
+    "usa-state": {
+      "name": "Stany Zjednoczone",
+      "description": ""
+    },
+    "tunisia-gouvenorate": {
+      "name": "Gubernator Tunezji",
+      "description": ""
+    },
+    "italy-region": {
+      "name": "Region Włoch",
+      "description": ""
+    },
+    "italy-county": {
+      "name": "Hrabstwo Włoch",
+      "description": ""
+    },
+    "brazil-regio": {
+      "name": "Stany Brazylii",
+      "description": ""
+    },
+    "mexico-state": {
+      "name": "Stany Meksyku",
+      "description": ""
+    },
+    "nantes": {
+      "name": "Dystrykt Nantes, Francja",
+      "description": ""
+    },
+    "biggest-cities": {
+      "name": "Największe Miasta (obszary)",
+      "description": "Lista 40 największych miast na świecie: PARYŻ, KOBE OSAKA, SEUL, HOUSTON, BARCELONA, FILADELFIA SANTIAGO, LAGOS, DALLAS, NOWY JORK, ISTANBUL, TOKIO, FUKUOKA, LONDYN, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRYT, NAGOYA, SINGAPUR, JOHANNESBURG, BELO HORIZONTE, TORONTO, MIASTO MEKSYK, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+    },
+    "spain-autonomous-communities": {
+      "name": "Hiszpańskie autonomiczne społeczności",
+      "description": ""
+    },
+    "spain-provinces": {
+      "name": "Prowincje Hiszpanii",
+      "description": ""
+    }
+  }
+}

@@ -1,77 +1,77 @@
 {
   "maps": {
     "unesco": {
-      "name": "Unesco : World Heritage List",
+      "name": "Unesco : Världsarvslista",
       "description": ""
     },
     "biggest-cities": {
-      "name": "Biggest City",
-      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "name": "Största staden",
+      "description": "Lista över de 40 största städerna i världen: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, FILADELFIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH-STADEN, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
     },
     "small-powerful": {
-      "name": "Small But Powerful",
-      "description": "This map is designed to add variety to the game of Geoguess by leaving out large nations. Australia, Brasil, Canada, China, Russia and United States of America are not included."
+      "name": "Små men kraftfulla",
+      "description": "Denna karta är designad för att skapa variation i spelet genom att utelämna stora länder. Australien, Brasilien, Kanada, Kina, Ryssland och USA är inte inkluderade."
     },
     "urban": {
-      "name": "Urban World",
-      "description": "Area of dense human habitation. Derived from 2002-2003 MODIS satellite data."
+      "name": "Urbana världen",
+      "description": "Ytor med tät mänsklig befolkning. Skapad från MODIS-satellitdatan från 2002-2003."
     },
     "europe": {
-      "name": "Europe",
-      "description": "Europe without Russia"
+      "name": "Europa",
+      "description": "Europa utan Ryssland"
     },
     "africa": {
-      "name": "Africa",
+      "name": "Afrika",
       "description": ""
     },
     "asia": {
-      "name": "Asia",
+      "name": "Asien",
       "description": ""
     },
     "north-america": {
-      "name": "North America",
+      "name": "Nordamerika",
       "description": ""
     },
     "south-america": {
-      "name": "South America",
+      "name": "Sydamerika",
       "description": ""
     },
     "Oceania": {
-      "name": "Oceania",
+      "name": "Oceanien",
       "description": ""
     },
     "inferno": {
       "name": "Inferno",
-      "description": "2 complex cities 😵 : Santa Cruz de la Sierre (Bolivia) & Touba (Senegal)"
+      "description": "2 komplexa städer 😵: Santa Cruz de la Sierre (Bolivia) & Touba (Senegal)"
     },
     "french-stations": {
-      "name": "French stations 🇫🇷",
-      "description": "The list of French passenger stations"
+      "name": "Franska stationer 🇫🇷",
+      "description": "Listan över franska passagerarstationer"
     },
     "german-stations": {
-      "name": "German stations 🇩🇪",
-      "description": "German train stations."
+      "name": "Tyska stationer 🇩🇪",
+      "description": "Tyska tågstationer."
     },
     "german-level-crossings": {
-      "name": "German Level Crossings 🇩🇪",
-      "description": "German Level Crossings"
+      "name": "Tyska plankorsningar 🇩🇪",
+      "description": "Tyska plankorsningar"
     },
     "big-airports": {
-      "name": "Big airports ✈️",
-      "description": "This map contains the largest airports (> 600) on the world."
+      "name": "Stora flygplatser",
+      "description": "Denna karta innehåller de största flygplatserna (> 600) i världen."
     },
     "german-football-stadiums": {
-      "name": "German football stadiums ⚽",
-      "description": "German football stadiums of clubs in the first (Bundesliga) to fourth (Regionalliga) leagues"
+      "name": "Tyska fotbollsarenor⚽",
+      "description": "Tyska fotbollsarenor för klubbar i den första (Bundesliga) till den fjärde (Regionalliga) ligan"
     },
     "nordic-vibes": {
-      "name": "Nordic vibes",
-      "description": "Walk in the Nordic countries (Finland, Sweden, Denmark, Norway, Faroe Islands, Iceland)"
+      "name": "Nordisk anda",
+      "description": "Gå i de nordiska länderna (Finland, Sverige, Danmark, Norge, Färöarna och Island)"
     }
   },
   "areas": {
     "continent": {
-      "name": "Continent",
+      "name": "Kontinent",
       "description": ""
     },
     "france-region": {
@@ -113,6 +113,14 @@
     "biggest-cities": {
       "name": "Biggest City (areas)",
       "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+    },
+    "spain-autonomous-communities": {
+      "name": "Spain autonomous communities",
+      "description": ""
+    },
+    "spain-provinces": {
+      "name": "Spain provinces",
+      "description": ""
     }
   }
 }

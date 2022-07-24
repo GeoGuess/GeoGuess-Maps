@@ -61,8 +61,8 @@
       "description": "Bu harita dünyadaki en büyük havaalanlarını (> 600) içerir."
     },
     "german-football-stadiums": {
-      "name": "Alman futbol stadyumları ⚽",
-      "description": "Birinci (Bundesliga) ile dördüncü (Regionalliga) liglerindeki kulüplerin Alman futbol stadyumları"
+      "name": "German football stadiums ⚽",
+      "description": "German football stadiums of clubs in the first (Bundesliga) to fourth (Regionalliga) leagues"
     },
     "nordic-vibes": {
       "name": "İskandinav esintileri",
@@ -113,6 +113,14 @@
     "biggest-cities": {
       "name": "En Büyük Şehirler (Yüzölçümü)",
       "description": "Dünyanın en büyük 40 şehrinin listesi: PARİS, KOBE OSAKA, SEUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, İSTANBUL, TOKYO, FUKUOKA, LONDRA, KUALA LUMPUR, LIMA, HO CHILANH CITY,, GUADALAJARA, MADRID, NAGOYA, SİNGAPUR, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+    },
+    "spain-autonomous-communities": {
+      "name": "Spain autonomous communities",
+      "description": ""
+    },
+    "spain-provinces": {
+      "name": "Spain provinces",
+      "description": ""
     }
   }
 }

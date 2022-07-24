@@ -61,8 +61,8 @@
       "description": "מפה זו כוללת את מנלי התעופה הגדולים בעולם. יש בה יותר מ-600 נמלי תעופה!"
     },
     "german-football-stadiums": {
-      "name": "אצטדיוני כדורגל בגרמניה ⚽",
-      "description": "אצטדיוני כדורגל בגרמניה. המפה כוללת את האצטדיונים של כל הקבוצות מהליגה הראשונה (בונדסליגה) עד הליגה הרביעית (רג'יונאליגה)"
+      "name": "German football stadiums ⚽",
+      "description": "German football stadiums of clubs in the first (Bundesliga) to fourth (Regionalliga) leagues"
     },
     "nordic-vibes": {
       "name": "הרגשה נורדית",
@@ -113,6 +113,14 @@
     "biggest-cities": {
       "name": "העדרים הגדולות (אזורים)",
       "description": "רשימת 40 הערים הגדולות בעולם: פריז, קובה, סאול, יוסטון, ברצלונה, פילדלפיה, סנטיאגו, לגוס, דאלאס, ניו יורק, איסטנבול, טוקיו, פוקואוקה, לונדון, קואלה לומפור, לימה, הו צ'י מין סיטח, מנילה, גוודלחרה, מדריד, נגויה, סינגפור, יוהנסבורג, בלו הוריזונטה, טורונטו, מקסיקו סיטי, מיאמי, אטלנטה, ריו זה ז'ניירו, בואנוס איירס, סאו פאולו, שיקגו,…"
+    },
+    "spain-autonomous-communities": {
+      "name": "Spain autonomous communities",
+      "description": ""
+    },
+    "spain-provinces": {
+      "name": "Spain provinces",
+      "description": ""
     }
   }
 }

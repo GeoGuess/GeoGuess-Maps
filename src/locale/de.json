@@ -61,8 +61,8 @@
       "description": "Diese Karte enthält die größten Flughäfen (> 600) der Welt."
     },
     "german-football-stadiums": {
-      "name": "Deutsche Fußballstadien ⚽",
-      "description": "Deutsche Fußballstadien von Vereinen in der ersten Bundesliga bis zur Regionalliga"
+      "name": "German football stadiums ⚽",
+      "description": "German football stadiums of clubs in the first (Bundesliga) to fourth (Regionalliga) leagues"
     },
     "nordic-vibes": {
       "name": "Nordic vibes",
@@ -113,6 +113,14 @@
     "biggest-cities": {
       "name": "Größte Stadt (Gebiete)",
       "description": "Liste der 40 größten Städte der Welt: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKIO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO-CHI-MINH-STADT, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPUR, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+    },
+    "spain-autonomous-communities": {
+      "name": "Spain autonomous communities",
+      "description": ""
+    },
+    "spain-provinces": {
+      "name": "Spain provinces",
+      "description": ""
     }
   }
 }

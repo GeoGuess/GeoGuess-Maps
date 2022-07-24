@@ -113,6 +113,14 @@
     "biggest-cities": {
       "name": "Plus grande ville du monde (zones)",
       "description": "Une liste de plus de 40 villes : PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+    },
+    "spain-autonomous-communities": {
+      "name": "Communautés autonomes d'Espagne",
+      "description": ""
+    },
+    "spain-provinces": {
+      "name": "Provinces d'Espagne",
+      "description": ""
     }
   }
 }
