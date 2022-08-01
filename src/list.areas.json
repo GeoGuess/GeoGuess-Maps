@@ -4,7 +4,7 @@
         "description": "",
         "author": "BilelJegham",
         "data": {
-            "urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/continents.json",
+            "urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/continents.geojson",
             "type": "polygon",
             "pathKey": "continent"
         }
