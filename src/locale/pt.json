@@ -5,35 +5,35 @@
       "description": ""
     },
     "biggest-cities": {
-      "name": "Biggest City",
+      "name": "Maior cidade",
       "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
     },
     "small-powerful": {
-      "name": "Small But Powerful",
-      "description": "This map is designed to add variety to the game of Geoguess by leaving out large nations. Australia, Brasil, Canada, China, Russia and United States of America are not included."
+      "name": "Simples, mas poderoso",
+      "description": "Este mapa é projetado para adicionar variedade ao jogo de Geoguess deixando de fora grandes nações. A Austrália, Brasil, Canadá, China, Rússia e Estados Unidos da América não estão incluídos."
     },
     "urban": {
-      "name": "Urban World",
-      "description": "Area of dense human habitation. Derived from 2002-2003 MODIS satellite data."
+      "name": "Mundo urbano",
+      "description": "Área de densa habitação humana. Derivado de dados de satélite 2002-2003."
     },
     "europe": {
-      "name": "Europe",
-      "description": "Europe without Russia"
+      "name": "Europa",
+      "description": "Europa sem Rússia"
     },
     "africa": {
-      "name": "Africa",
+      "name": "África",
       "description": ""
     },
     "asia": {
-      "name": "Asia",
+      "name": "Ásia",
       "description": ""
     },
     "north-america": {
-      "name": "North America",
+      "name": "América do Norte",
       "description": ""
     },
     "south-america": {
-      "name": "South America",
+      "name": "América do Sul",
       "description": ""
     },
     "Oceania": {
@@ -99,7 +99,7 @@
       "description": ""
     },
     "brazil-regio": {
-      "name": "Brazil States",
+      "name": "Estados do Brasil",
       "description": ""
     },
     "mexico-state": {
