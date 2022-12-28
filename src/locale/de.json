@@ -6,7 +6,7 @@
     },
     "biggest-cities": {
       "name": "Größte Stadt",
-      "description": "Liste der 40 größten Städte der Welt: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEUES YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "description": "Liste der 40 größten Städte der Welt: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITy, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXIKO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
     },
     "small-powerful": {
       "name": "Klein aber mächtig",
@@ -61,7 +61,7 @@
       "description": "Diese Karte enthält die größten Flughäfen (> 600) der Welt."
     },
     "german-football-stadiums": {
-      "name": "German football stadiums ⚽",
+      "name": "Deutsche Fußballstadien ⚽",
       "description": "Deutsche Fußballstadien von Vereinen der 1. (Bundesliga) bis 4. (Regionalliga)"
     },
     "nordic-vibes": {
@@ -79,7 +79,7 @@
       "description": ""
     },
     "france-county": {
-      "name": "Bezirk Frankreich",
+      "name": "Regionen Frankreichs",
       "description": ""
     },
     "usa-state": {
@@ -87,7 +87,7 @@
       "description": ""
     },
     "tunisia-gouvenorate": {
-      "name": "Gouvernements von Tunesien",
+      "name": "Tunesische Gouvernorate",
       "description": ""
     },
     "italy-region": {
