@@ -17,19 +17,19 @@
       "description": "Area of dense human habitation. Derived from 2002-2003 MODIS satellite data."
     },
     "europe": {
-      "name": "Europe",
+      "name": "Evropa",
       "description": "Europe without Russia"
     },
     "africa": {
-      "name": "Africa",
+      "name": "Afrika",
       "description": ""
     },
     "asia": {
-      "name": "Asia",
+      "name": "Azia",
       "description": ""
     },
     "north-america": {
-      "name": "North America",
+      "name": "Arqa Amerika",
       "description": ""
     },
     "south-america": {
@@ -37,7 +37,7 @@
       "description": ""
     },
     "Oceania": {
-      "name": "Oceania",
+      "name": "Avstraliya",
       "description": ""
     },
     "inferno": {
@@ -71,7 +71,7 @@
   },
   "areas": {
     "continent": {
-      "name": "Continent",
+      "name": "Kontinent",
       "description": ""
     },
     "france-region": {
@@ -83,7 +83,7 @@
       "description": ""
     },
     "usa-state": {
-      "name": "US States",
+      "name": "AQSH shtatları",
       "description": ""
     },
     "tunisia-gouvenorate": {
@@ -95,15 +95,15 @@
       "description": ""
     },
     "italy-county": {
-      "name": "Italy County",
+      "name": "Italiya",
       "description": ""
     },
     "brazil-regio": {
-      "name": "Brazil States",
+      "name": "Braziliyanıń shtatları",
       "description": ""
     },
     "mexico-state": {
-      "name": "Mexico States",
+      "name": "Meksikanıń shtatları",
       "description": ""
     },
     "nantes": {
