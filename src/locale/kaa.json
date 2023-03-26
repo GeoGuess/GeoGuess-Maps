@@ -1,7 +1,7 @@
 {
   "maps": {
     "unesco": {
-      "name": "Unesco : World Heritage List",
+      "name": "YuNESKO: Dúnya miyrasları dizimi",
       "description": ""
     },
     "biggest-cities": {
@@ -13,7 +13,7 @@
       "description": "This map is designed to add variety to the game of Geoguess by leaving out large nations. Australia, Brasil, Canada, China, Russia and United States of America are not included."
     },
     "urban": {
-      "name": "Urban World",
+      "name": "Qalalıq jerler",
       "description": "Area of dense human habitation. Derived from 2002-2003 MODIS satellite data."
     },
     "europe": {
@@ -57,11 +57,11 @@
       "description": "German Level Crossings"
     },
     "big-airports": {
-      "name": "Big airports ✈️",
-      "description": "This map contains the largest airports (> 600) on the world."
+      "name": "Úlken aeroportlar",
+      "description": "Bul karta dúnyadaǵı eń úlken aeroportlardı (>600) óz ishine aladı."
     },
     "german-football-stadiums": {
-      "name": "German football stadiums ⚽",
+      "name": "Germaniya futbol stadionları ⚽",
       "description": "German football stadiums of clubs in the first (Bundesliga) to fourth (Regionalliga) leagues"
     },
     "nordic-vibes": {
