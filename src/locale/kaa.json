@@ -1,0 +1,126 @@
+{
+  "maps": {
+    "unesco": {
+      "name": "YuNESKO: Dúnya miyrasları dizimi",
+      "description": ""
+    },
+    "biggest-cities": {
+      "name": "Eń úlken qala",
+      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+    },
+    "small-powerful": {
+      "name": "Kishkene biraq kúshli",
+      "description": "This map is designed to add variety to the game of Geoguess by leaving out large nations. Australia, Brasil, Canada, China, Russia and United States of America are not included."
+    },
+    "urban": {
+      "name": "Qalalıq jerler",
+      "description": "Area of dense human habitation. Derived from 2002-2003 MODIS satellite data."
+    },
+    "europe": {
+      "name": "Evropa",
+      "description": "Rossiyasız Evropa"
+    },
+    "africa": {
+      "name": "Afrika",
+      "description": ""
+    },
+    "asia": {
+      "name": "Azia",
+      "description": ""
+    },
+    "north-america": {
+      "name": "Arqa Amerika",
+      "description": ""
+    },
+    "south-america": {
+      "name": "Qubla Amerika",
+      "description": ""
+    },
+    "Oceania": {
+      "name": "Avstraliya",
+      "description": ""
+    },
+    "inferno": {
+      "name": "Inferno",
+      "description": "2 complex cities 😵 : Santa Cruz de la Sierre (Bolivia) & Touba (Senegal)"
+    },
+    "french-stations": {
+      "name": "Francuz stanciyaları 🇫🇷",
+      "description": "Francuz jollawshı stanciyaları dizimi"
+    },
+    "german-stations": {
+      "name": "Nemec stanciyaları 🇩🇪",
+      "description": "Nemec temirjol stanciyaları."
+    },
+    "german-level-crossings": {
+      "name": "German Level Crossings 🇩🇪",
+      "description": "German Level Crossings"
+    },
+    "big-airports": {
+      "name": "Úlken aeroportlar",
+      "description": "Bul karta dúnyadaǵı eń úlken aeroportlardı (>600) óz ishine aladı."
+    },
+    "german-football-stadiums": {
+      "name": "Germaniya futbol stadionları ⚽",
+      "description": "German football stadiums of clubs in the first (Bundesliga) to fourth (Regionalliga) leagues"
+    },
+    "nordic-vibes": {
+      "name": "Nordic vibes",
+      "description": "Walk in the Nordic countries (Finland, Sweden, Denmark, Norway, Faroe Islands, Iceland)"
+    }
+  },
+  "areas": {
+    "continent": {
+      "name": "Kontinent",
+      "description": ""
+    },
+    "france-region": {
+      "name": "France Region",
+      "description": ""
+    },
+    "france-county": {
+      "name": "France County",
+      "description": ""
+    },
+    "usa-state": {
+      "name": "AQSH shtatları",
+      "description": ""
+    },
+    "tunisia-gouvenorate": {
+      "name": "Tunisia governorate",
+      "description": ""
+    },
+    "italy-region": {
+      "name": "Italiya aymaǵı",
+      "description": ""
+    },
+    "italy-county": {
+      "name": "Italiya",
+      "description": ""
+    },
+    "brazil-regio": {
+      "name": "Braziliyanıń shtatları",
+      "description": ""
+    },
+    "mexico-state": {
+      "name": "Meksikanıń shtatları",
+      "description": ""
+    },
+    "nantes": {
+      "name": "District of Nantes, France",
+      "description": ""
+    },
+    "biggest-cities": {
+      "name": "Eń úlken qala (aymaqlar)",
+      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+    },
+    "spain-autonomous-communities": {
+      "name": "Spain autonomous communities",
+      "description": ""
+    },
+    "spain-provinces": {
+      "name": "Spain provinces",
+      "description": ""
+    }
+  }
+}

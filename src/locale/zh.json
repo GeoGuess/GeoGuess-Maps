@@ -1,125 +1,125 @@
 {
   "maps": {
     "unesco": {
-      "name": "Unesco : World Heritage List",
+      "name": "联合国教科文组织：世界遗产名录",
       "description": ""
     },
     "biggest-cities": {
-      "name": "Biggest City",
-      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "name": "大城市",
+      "description": "世界上最大的40个城市清单：巴黎、大阪、首尔、休斯顿、巴塞罗那、费城、圣地亚哥、拉戈斯、达拉斯、纽约、伊斯坦布尔、东京、福冈、伦敦、吉隆坡、利马、胡志明市、马尼拉、瓜达拉哈拉、马德里、名古屋、新加坡、约翰内斯堡、贝洛奥里藏特、多伦多、墨西哥城、迈阿密、亚特兰大、里约热内卢、布宜诺斯艾利斯、圣保罗、芝加哥……"
     },
     "small-powerful": {
-      "name": "Small But Powerful",
-      "description": "This map is designed to add variety to the game of Geoguess by leaving out large nations. Australia, Brasil, Canada, China, Russia and United States of America are not included."
+      "name": "小而有力",
+      "description": "这张地图旨在删去大国以令Geoguess游戏内容丰富。澳大利亚、巴西、加拿大、俄罗斯和美国不会再这张地图里出现。"
     },
     "urban": {
-      "name": "Urban World",
-      "description": "Area of dense human habitation. Derived from 2002-2003 MODIS satellite data."
+      "name": "城市世界",
+      "description": "人类居住密度高的地区。来自2002-2003年MODIS卫星数据。"
     },
     "europe": {
-      "name": "Europe",
-      "description": "Europe without Russia"
+      "name": "欧洲",
+      "description": "欧洲（无俄罗斯）"
     },
     "africa": {
-      "name": "Africa",
+      "name": "非洲",
       "description": ""
     },
     "asia": {
-      "name": "Asia",
+      "name": "亚洲",
       "description": ""
     },
     "north-america": {
-      "name": "North America",
+      "name": "北美洲",
       "description": ""
     },
     "south-america": {
-      "name": "South America",
+      "name": "南美洲",
       "description": ""
     },
     "Oceania": {
-      "name": "Oceania",
+      "name": "大洋洲",
       "description": ""
     },
     "inferno": {
-      "name": "Inferno",
-      "description": "2 complex cities 😵 : Santa Cruz de la Sierre (Bolivia) & Touba (Senegal)"
+      "name": "地狱难度",
+      "description": "包含两个复杂城市😵：圣克鲁斯-德拉谢拉 (玻利维亚) 和图巴 (塞内加尔)"
     },
     "french-stations": {
-      "name": "French stations 🇫🇷",
-      "description": "The list of French passenger stations"
+      "name": "法国车站🇫🇷",
+      "description": "法国旅客站清单"
     },
     "german-stations": {
-      "name": "German stations 🇩🇪",
-      "description": "German train stations."
+      "name": "德国车站🇩🇪",
+      "description": "德国火车站"
     },
     "german-level-crossings": {
-      "name": "German Level Crossings 🇩🇪",
-      "description": "German Level Crossings"
+      "name": "德国铁路道口🇩🇪",
+      "description": "德国的铁路道口"
     },
     "big-airports": {
-      "name": "Big airports ✈️",
-      "description": "This map contains the largest airports (> 600) on the world."
+      "name": "大机场✈️",
+      "description": "这张地图包含了世界上 (超过600个) 最大的机场"
     },
     "german-football-stadiums": {
-      "name": "German football stadiums ⚽",
-      "description": "German football stadiums of clubs in the first (Bundesliga) to fourth (Regionalliga) leagues"
+      "name": "德国足球场⚽",
+      "description": "德国俱乐部的足球场 (从地区联赛到德甲)"
     },
     "nordic-vibes": {
-      "name": "Nordic vibes",
-      "description": "Walk in the Nordic countries (Finland, Sweden, Denmark, Norway, Faroe Islands, Iceland)"
+      "name": "北欧风",
+      "description": "在北欧国家 (芬兰、瑞典、丹麦、挪威、法罗群岛和冰岛) 漫步"
     }
   },
   "areas": {
     "continent": {
-      "name": "Continent",
+      "name": "大洲",
       "description": ""
     },
     "france-region": {
-      "name": "France Region",
+      "name": "法国大区",
       "description": ""
     },
     "france-county": {
-      "name": "France County",
+      "name": "法国省区",
       "description": ""
     },
     "usa-state": {
-      "name": "US States",
+      "name": "美国州",
       "description": ""
     },
     "tunisia-gouvenorate": {
-      "name": "Tunisia governorate",
+      "name": "突尼斯省",
       "description": ""
     },
     "italy-region": {
-      "name": "Italy Region",
+      "name": "意大利大区",
       "description": ""
     },
     "italy-county": {
-      "name": "Italy County",
+      "name": "意大利省",
       "description": ""
     },
     "brazil-regio": {
-      "name": "Brazil States",
+      "name": "巴西州",
       "description": ""
     },
     "mexico-state": {
-      "name": "Mexico States",
+      "name": "墨西哥州",
       "description": ""
     },
     "nantes": {
-      "name": "District of Nantes, France",
+      "name": "法国南特地区",
       "description": ""
     },
     "biggest-cities": {
-      "name": "Biggest City (areas)",
-      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "name": "大城市 (区域)",
+      "description": "世界上最大的40个城市清单：巴黎、大阪、首尔、休斯顿、巴塞罗那、费城、圣地亚哥、拉戈斯、达拉斯、纽约、伊斯坦布尔、东京、福冈、伦敦、吉隆坡、利马、胡志明市、马尼拉、瓜达拉哈拉、马德里、名古屋、新加坡、约翰内斯堡、贝洛奥里藏特、多伦多、墨西哥城、迈阿密、亚特兰大、里约热内卢、布宜诺斯艾利斯、圣保罗、芝加哥……"
     },
     "spain-autonomous-communities": {
-      "name": "Spain autonomous communities",
+      "name": "西班牙自治区",
       "description": ""
     },
     "spain-provinces": {
-      "name": "Spain provinces",
+      "name": "西班牙省",
       "description": ""
     }
   }

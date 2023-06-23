@@ -75,51 +75,51 @@
       "description": ""
     },
     "france-region": {
-      "name": "France Region",
+      "name": "Franska regioner",
       "description": ""
     },
     "france-county": {
-      "name": "France County",
+      "name": "Franska kommuner",
       "description": ""
     },
     "usa-state": {
-      "name": "US States",
+      "name": "USAs delstater",
       "description": ""
     },
     "tunisia-gouvenorate": {
-      "name": "Tunisia governorate",
+      "name": "Tunisiens guvernat",
       "description": ""
     },
     "italy-region": {
-      "name": "Italy Region",
+      "name": "Italienska regioner",
       "description": ""
     },
     "italy-county": {
-      "name": "Italy County",
+      "name": "Italienska kommuner",
       "description": ""
     },
     "brazil-regio": {
-      "name": "Brazil States",
+      "name": "Brasilianska delstater",
       "description": ""
     },
     "mexico-state": {
-      "name": "Mexico States",
+      "name": "Mexikanska delstater",
       "description": ""
     },
     "nantes": {
-      "name": "District of Nantes, France",
+      "name": "Nantes distrikt, Frankrike",
       "description": ""
     },
     "biggest-cities": {
-      "name": "Biggest City (areas)",
-      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "name": "Största staden (områden)",
+      "description": "Lista över de 40 största städerna i världen: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOYKO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH-STADEN, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANERIO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
     },
     "spain-autonomous-communities": {
-      "name": "Spain autonomous communities",
+      "name": "Spanska autonoma samhällen",
       "description": ""
     },
     "spain-provinces": {
-      "name": "Spain provinces",
+      "name": "Spanska provinser",
       "description": ""
     }
   }
