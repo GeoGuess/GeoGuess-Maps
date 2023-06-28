@@ -55,7 +55,8 @@
                 "name",
                 "description",
                 "author",
-                "data"
+                "data",
+                "imageUrl"
             ]
         }
     }
