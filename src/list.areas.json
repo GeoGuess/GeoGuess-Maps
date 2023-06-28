@@ -3,6 +3,7 @@
         "name": "Continent",
         "description": "",
         "author": "BilelJegham",
+        "imageUrl": "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
         "data": {
             "urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/continents.geojson",
             "type": "polygon",
@@ -13,6 +14,7 @@
         "name": "France Region",
         "description": "",
         "author": "BilelJegham, gregoiredavid",
+        "imageUrl": "https://images.unsplash.com/photo-1588607327673-83b8f3791d6a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
         "data": {
             "bbox": [
                 -5.4517733,
@@ -35,6 +37,7 @@
         "name": "France County",
         "description": "",
         "author": "BilelJegham, gregoiredavid",
+        "imageUrl": "https://images.unsplash.com/photo-1634745521698-3b8307f30543?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
         "data": {
             "bbox": [
                 -5.4517733,
@@ -57,6 +60,7 @@
         "name": "US States",
         "description": "",
         "author": "BilelJegham",
+        "imageUrl": "https://images.unsplash.com/photo-1534706438758-534c634c4591?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
         "data": {
             "bbox": [
                 -171.79111060289117,
@@ -102,6 +106,7 @@
         "name": "Italy Region",
         "description": "",
         "author": "BilelJegham, openpolis",
+        "imageUrl": "https://images.unsplash.com/photo-1543656722-364c5456ac08?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
         "data": {
             "bbox": [35.2889616, 47.0921462, 6.6272658, 18.7844746],
             "urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/italy_regions.geojson",
@@ -119,6 +124,7 @@
         "name": "Italy County",
         "description": "",
         "author": "BilelJegham, openpolis",
+        "imageUrl": "https://images.unsplash.com/photo-1596627116752-94ec9536a1fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
         "data": {
             "bbox": [35.2889616, 47.0921462, 6.6272658, 18.7844746],
             "urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/italy_provinces.geojson",
@@ -136,6 +142,7 @@
         "name": "Brazil States",
         "description": "",
         "author": "BilelJegham, luizpedone",
+        "imageUrl": "https://images.unsplash.com/photo-1632184078944-b8a9cd828a57?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
         "data":{
             "bbox": [-33.8689056,5.2693306,-73.9830625,-28.6289646],
             "urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/brazil_regions.geojson",
@@ -153,6 +160,7 @@
         "name": "Mexico States",
         "description": "",
         "author": "BilelJegham, angelnmara",
+        "imageUrl": "https://images.unsplash.com/photo-1583422790973-03d1901612dc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
         "data":{
             "bbox": [-118.366000,14.534700,-86.723700,32.718200],
             "urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/mexico_states.geojson",
@@ -170,6 +178,7 @@
         "name": "District of Nantes, France",
         "description": "",
         "author": "BilelJegham, data.nantesmetropole.fr",
+        "imageUrl": "https://images.unsplash.com/photo-1676283898167-addc4238bee8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
         "data": {
             "bbox": [
                 -1.6418115,
@@ -203,6 +212,7 @@
         "name": "Spain autonomous communities",
         "description": "",
         "author": "Rukant",
+        "imageUrl": "https://images.unsplash.com/photo-1566232392379-afd9298e6a46?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjg3OTd9&auto=format&fit=crop&w=500&h=230",
         "data": {
             "urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/spain_autonomous_communities.geojson",
             "type": "polygon",
@@ -213,6 +223,7 @@
         "name": "Spain provinces",
         "description": "",
         "author": "Rukant",
+        "imageUrl": "https://images.unsplash.com/photo-1559564477-f837b990831a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjg3OTd9&auto=format&fit=crop&w=500&h=230",
         "data": {
             "urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/spain_provinces.geojson",
             "type": "polygon",

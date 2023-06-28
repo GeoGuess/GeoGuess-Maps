@@ -27,7 +27,8 @@
                 "name",
                 "description",
                 "author",
-                "url"
+                "url",
+                "imageUrl"
             ]
         }
     }
