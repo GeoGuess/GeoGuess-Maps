@@ -10,11 +10,11 @@
     },
     "small-powerful": {
       "name": "Kishkene biraq kúshli",
-      "description": "This map is designed to add variety to the game of Geoguess by leaving out large nations. Australia, Brasil, Canada, China, Russia and United States of America are not included."
+      "description": "Bul karta iri mámleketlerdi alıp taslaw arqalı Geoguess oyınına reń-bereńlikti qosadı. Avstraliya, Braziliya, Kanada, Kitay, Rossiya hám Amerika Qospa Shtatları bunnan tısqarı."
     },
     "urban": {
       "name": "Qalalıq jerler",
-      "description": "Area of dense human habitation. Derived from 2002-2003 MODIS satellite data."
+      "description": "MODIS jasalma joldas maǵlıwmatları 2002-2003."
     },
     "europe": {
       "name": "Evropa",
@@ -75,11 +75,11 @@
       "description": ""
     },
     "france-region": {
-      "name": "France Region",
+      "name": "Frantsiya aymaǵı",
       "description": ""
     },
     "france-county": {
-      "name": "France County",
+      "name": "Fransiya okrugi",
       "description": ""
     },
     "usa-state": {
@@ -107,7 +107,7 @@
       "description": ""
     },
     "nantes": {
-      "name": "District of Nantes, France",
+      "name": "Nant okrugi, Fransiya",
       "description": ""
     },
     "biggest-cities": {
@@ -115,11 +115,11 @@
       "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
     },
     "spain-autonomous-communities": {
-      "name": "Spain autonomous communities",
+      "name": "Ispaniya avtonom jámáátleri",
       "description": ""
     },
     "spain-provinces": {
-      "name": "Spain provinces",
+      "name": "Ispaniya wálayatları",
       "description": ""
     }
   }
