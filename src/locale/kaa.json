@@ -6,15 +6,15 @@
     },
     "biggest-cities": {
       "name": "Eń úlken qala",
-      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "description": "Dúnyadaǵı 40 eń iri qalalar : PARIS, OSAKA, SEUL, XYUSTON, BARSELONA, FİLADELFIYA, SANTYAGO, LAGOS, DALLAS, NYU YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA-LUMPUR, LIMA, XOCHIMAHA, MAGAvALA, MADRID, NAGOYA, SINGAPU, YOXANNESBURG, BELO-HORIZONTE, TORONTO, MEKSIKO SITI, MIAMI, ATLANTA, RIO DE-JANEYRO, BUENOS-AYRES, SAO PAULO, CHIKAGO,…"
     },
     "small-powerful": {
       "name": "Kishkene biraq kúshli",
-      "description": "This map is designed to add variety to the game of Geoguess by leaving out large nations. Australia, Brasil, Canada, China, Russia and United States of America are not included."
+      "description": "Bul karta iri mámleketlerdi alıp taslaw arqalı Geoguess oyınına reń-bereńlikti qosadı. Avstraliya, Braziliya, Kanada, Kitay, Rossiya hám Amerika Qospa Shtatları bunnan tısqarı."
     },
     "urban": {
       "name": "Qalalıq jerler",
-      "description": "Area of dense human habitation. Derived from 2002-2003 MODIS satellite data."
+      "description": "MODIS jasalma joldas maǵlıwmatları 2002-2003."
     },
     "europe": {
       "name": "Evropa",
@@ -41,8 +41,8 @@
       "description": ""
     },
     "inferno": {
-      "name": "Inferno",
-      "description": "2 complex cities 😵 : Santa Cruz de la Sierre (Bolivia) & Touba (Senegal)"
+      "name": "Dozaq",
+      "description": "2 qıyın qala 😵: Santa Kruz de la Sierra (Boliviya ) & Tuba (Senegal)"
     },
     "french-stations": {
       "name": "Francuz stanciyaları 🇫🇷",
@@ -53,8 +53,8 @@
       "description": "Nemec temirjol stanciyaları."
     },
     "german-level-crossings": {
-      "name": "German Level Crossings 🇩🇪",
-      "description": "German Level Crossings"
+      "name": "Nemis poezdları 🇩🇪",
+      "description": "Germaniya júzesinen ótiw jayları"
     },
     "big-airports": {
       "name": "Úlken aeroportlar",
@@ -62,11 +62,11 @@
     },
     "german-football-stadiums": {
       "name": "Germaniya futbol stadionları ⚽",
-      "description": "German football stadiums of clubs in the first (Bundesliga) to fourth (Regionalliga) leagues"
+      "description": "Birinshi (Bundesliga) den tap tórtinshi liga (Regionalliga) ge shekem bolǵan nemis klublarınıń futbol stadionları"
     },
     "nordic-vibes": {
-      "name": "Nordic vibes",
-      "description": "Walk in the Nordic countries (Finland, Sweden, Denmark, Norway, Faroe Islands, Iceland)"
+      "name": "Arqa terbelisler",
+      "description": "Arqa mámleketlerde aylanıw (Finlyandiya, Shvetsiya, Daniya, Norvegiya, Farer atawları, Islandiya)"
     }
   },
   "areas": {
@@ -75,11 +75,11 @@
       "description": ""
     },
     "france-region": {
-      "name": "France Region",
+      "name": "Frantsiya aymaǵı",
       "description": ""
     },
     "france-county": {
-      "name": "France County",
+      "name": "Fransiya okrugi",
       "description": ""
     },
     "usa-state": {
@@ -87,7 +87,7 @@
       "description": ""
     },
     "tunisia-gouvenorate": {
-      "name": "Tunisia governorate",
+      "name": "Tunis gubernatorlıǵı",
       "description": ""
     },
     "italy-region": {
@@ -107,19 +107,19 @@
       "description": ""
     },
     "nantes": {
-      "name": "District of Nantes, France",
+      "name": "Nant okrugi, Fransiya",
       "description": ""
     },
     "biggest-cities": {
       "name": "Eń úlken qala (aymaqlar)",
-      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "description": "Dúnyanıń 40 eń iri qalaları dizimi: PARIS, KOBE OSAKA, SEUL, XYUSTON, BARSELONA, FILADELFIYA, SANTYAGO, LAGOS, DALLAS, NYU YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA-LUMPURXO, KUALA-LUMPURHO, GUADALAJARA, MADRID, NAGOYA, SINGAPU, YOXANNESBURG, BELO-HORIZONTE, TORONTO, MEXICO SITI, MIAMI, ATLANTA, RIO DE-JANEYRO, BUENOS-AYRES, SAO PAULO, CHIKAGO,…"
     },
     "spain-autonomous-communities": {
-      "name": "Spain autonomous communities",
+      "name": "Ispaniya avtonom jámáátleri",
       "description": ""
     },
     "spain-provinces": {
-      "name": "Spain provinces",
+      "name": "Ispaniya wálayatları",
       "description": ""
     }
   }
