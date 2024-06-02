@@ -1,0 +1,126 @@
+{
+  "maps": {
+    "unesco": {
+      "name": "يونيسكو : قائمة التراث العالمي",
+      "description": ""
+    },
+    "biggest-cities": {
+      "name": "أكبر مدينة",
+      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+    },
+    "small-powerful": {
+      "name": "صغير ولكن قوي",
+      "description": "هذه الخريطة مصممة لإضافة تنوع إلى لعبة الجغرافيا عن طريق تجاهل الدول الكبيرة. ولا يشمل ذلك أستراليا والبرازيل وروسيا والصين وكندا والولايات المتحدة الأمريكية."
+    },
+    "urban": {
+      "name": "العالم الحضري",
+      "description": "المساحة السكنية البشرية الكثيفة - مستمدة من بيانات الساتل MODIS للفترة 2002-2003."
+    },
+    "europe": {
+      "name": "أوروبا",
+      "description": "أوروبا بدون روسيا"
+    },
+    "africa": {
+      "name": "أفريقيا",
+      "description": ""
+    },
+    "asia": {
+      "name": "آسيا",
+      "description": ""
+    },
+    "north-america": {
+      "name": "أمريكا الشمالية",
+      "description": ""
+    },
+    "south-america": {
+      "name": "أمريكا الجنوبية",
+      "description": ""
+    },
+    "Oceania": {
+      "name": "Oceania",
+      "description": ""
+    },
+    "inferno": {
+      "name": "جحيم",
+      "description": "2 مدينتان معقدتان 😵 سانتا كروز دي لا سيير (بوليفيا) وتوبا (السنغال)"
+    },
+    "french-stations": {
+      "name": "المحطات الفرنسية 🇫🇷",
+      "description": "قائمة محطات الركاب الفرنسية"
+    },
+    "german-stations": {
+      "name": "المحطات الألمانية 🇩🇪",
+      "description": "محطات القطار الألمانية."
+    },
+    "german-level-crossings": {
+      "name": "معبر المستوى الألماني 🇩🇪",
+      "description": "عبور المستوى الألماني"
+    },
+    "big-airports": {
+      "name": "مطارات كبيرة ✈️",
+      "description": "تحتوي هذه الخريطة على أكبر المطارات (> 600) في العالم."
+    },
+    "german-football-stadiums": {
+      "name": "ملاعب كرة القدم الألمانية ⚽",
+      "description": "ملاعب كرة القدم الألمانية في الاتحادات الأولى (بوندستليغا) إلى الرابعة (Regionalliga)"
+    },
+    "nordic-vibes": {
+      "name": "Nordic vibes",
+      "description": "المشي في بلدان الشمال الأوروبي (فنلندا والسويد والدانمرك والنرويج وجزر فارو وآيسلندا)"
+    }
+  },
+  "areas": {
+    "continent": {
+      "name": "القارة",
+      "description": ""
+    },
+    "france-region": {
+      "name": "منطقة فرنسا",
+      "description": ""
+    },
+    "france-county": {
+      "name": "مقاطعة فرنسا",
+      "description": ""
+    },
+    "usa-state": {
+      "name": "الولايات المتحدة الأمريكية",
+      "description": ""
+    },
+    "tunisia-gouvenorate": {
+      "name": "محافظة تونس",
+      "description": ""
+    },
+    "italy-region": {
+      "name": "منطقة إيطاليا",
+      "description": ""
+    },
+    "italy-county": {
+      "name": "مقاطعة إيطاليا",
+      "description": ""
+    },
+    "brazil-regio": {
+      "name": "الدول البرازيلية",
+      "description": ""
+    },
+    "mexico-state": {
+      "name": "الدول المكسيكية",
+      "description": ""
+    },
+    "nantes": {
+      "name": "مقاطعة نانت، فرنسا",
+      "description": ""
+    },
+    "biggest-cities": {
+      "name": "أكبر مدينة (مناطق)",
+      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+    },
+    "spain-autonomous-communities": {
+      "name": "المجتمعات الإسبانية المتمتعة بالحكم الذاتي",
+      "description": ""
+    },
+    "spain-provinces": {
+      "name": "المقاطعات الإسبانية",
+      "description": ""
+    }
+  }
+}
