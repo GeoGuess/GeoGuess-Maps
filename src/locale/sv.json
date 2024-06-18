@@ -16,6 +16,10 @@
       "name": "Urbana världen",
       "description": "Ytor med tät mänsklig befolkning. Skapad från MODIS-satellitdatan från 2002-2003."
     },
+    "palestine": {
+      "name": "Palestine 🇵🇸",
+      "description": "Map for the peace and the liberty. 🕊️"
+    },
     "europe": {
       "name": "Europa",
       "description": "Europa utan Ryssland"
