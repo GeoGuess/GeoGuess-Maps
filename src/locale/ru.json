@@ -16,6 +16,10 @@
       "name": "Городская местность",
       "description": "Спутниковые данные МОДИС 2002-2003 годов."
     },
+    "palestine": {
+      "name": "Palestine 🇵🇸",
+      "description": "Map for the peace and the liberty. 🕊️"
+    },
     "europe": {
       "name": "Европа",
       "description": "Европа без России"
