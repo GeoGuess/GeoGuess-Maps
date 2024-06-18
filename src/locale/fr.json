@@ -16,6 +16,10 @@
       "name": "Monde Urbain",
       "description": "Zone à forte densité d'habitation. Dérivé des données satellites MODIS 2002-2003."
     },
+    "palestine": {
+      "name": "Palestine 🇵🇸",
+      "description": "Map for the peace and the liberty. 🕊️"
+    },
     "europe": {
       "name": "Europe",
       "description": "Europe sans la Russie"

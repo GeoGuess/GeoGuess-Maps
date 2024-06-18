@@ -16,6 +16,10 @@
       "name": "Miejski Świat",
       "description": "Obszar gęsto zaludnionych siedlisk ludzkich. Dane satelitarne MODIS z lat 2002–2003."
     },
+    "palestine": {
+      "name": "Palestine 🇵🇸",
+      "description": "Map for the peace and the liberty. 🕊️"
+    },
     "europe": {
       "name": "Europa",
       "description": "Europa bez Rosji"

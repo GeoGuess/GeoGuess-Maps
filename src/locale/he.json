@@ -16,6 +16,10 @@
       "name": "עולם עירוני",
       "description": "אזורים צפופים בלבד. נגזר מנתוני הלוויין MODIS לשנים 2002-2003."
     },
+    "palestine": {
+      "name": "Palestine 🇵🇸",
+      "description": "Map for the peace and the liberty. 🕊️"
+    },
     "europe": {
       "name": "אירופה",
       "description": "מדינות אירופה (לא כולל את רוסיה)"
