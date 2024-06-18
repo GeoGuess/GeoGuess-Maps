@@ -16,6 +16,10 @@
       "name": "Urban World",
       "description": "Area of dense human habitation. Derived from 2002-2003 MODIS satellite data."
     },
+    "palestine": {
+      "name": "Palestine 🇵🇸",
+      "description": "Map for the peace and the liberty. 🕊️"
+    },
     "europe": {
       "name": "Europe",
       "description": "Europe without Russia"

@@ -117,5 +117,12 @@
         "author": "Dimoushh",
         "imageUrl": "https://images.unsplash.com/photo-1446419385500-203d54c0c460?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
         "url": "https://raw.githubusercontent.com/dimfort/content/main/nordicarea.geojson"
+    },
+    "palestine": {
+        "name": "Palestine 🇵🇸",
+        "description": "Map for the peace and the liberty. 🕊️",
+        "author": "STOP WAR",
+        "imageUrl": "https://plus.unsplash.com/premium_photo-1674657843205-0e0106be5407?auto=format&fit=crop&w=500&h=230&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "url": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/maps/palestine.geojson"
     }
 }
