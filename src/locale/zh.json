@@ -16,6 +16,10 @@
       "name": "城市世界",
       "description": "人类居住密度高的地区。来自2002-2003年MODIS卫星数据。"
     },
+    "palestine": {
+      "name": "Palestine 🇵🇸",
+      "description": "Map for the peace and the liberty. 🕊️"
+    },
     "europe": {
       "name": "欧洲",
       "description": "欧洲（无俄罗斯）"
