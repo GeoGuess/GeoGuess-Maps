@@ -16,6 +16,10 @@
       "name": "都市の世界",
       "description": "密度の高い人間の居住エリア. から派生しました 2002-2003 MODIS衛星データ."
     },
+    "palestine": {
+      "name": "Palestine 🇵🇸",
+      "description": "Map for the peace and the liberty. 🕊️"
+    },
     "europe": {
       "name": "ヨーロッパ",
       "description": "ロシアのいないヨーロッパ"
