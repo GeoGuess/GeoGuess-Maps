@@ -10,15 +10,15 @@
     },
     "small-powerful": {
       "name": "小而有力",
-      "description": "这张地图旨在删去大国以令Geoguess游戏内容丰富。澳大利亚、巴西、加拿大、俄罗斯和美国不会再这张地图里出现。"
+      "description": "这张地图旨在删去大国以令 Geoguess 游戏内容丰富。澳大利亚、巴西、加拿大、俄罗斯和美国不会再这张地图里出现。"
     },
     "urban": {
       "name": "城市世界",
       "description": "人类居住密度高的地区。来自2002-2003年MODIS卫星数据。"
     },
     "palestine": {
-      "name": "Palestine 🇵🇸",
-      "description": "Map for the peace and the liberty. 🕊️"
+      "name": "巴勒斯坦",
+      "description": "和平与自由的地图 🕊️"
     },
     "europe": {
       "name": "欧洲",
