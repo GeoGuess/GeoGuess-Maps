@@ -1,12 +1,12 @@
 {
   "maps": {
     "unesco": {
-      "name": "Unesco : World Heritage List",
+      "name": "Unesco: Patrimônio Mundial",
       "description": ""
     },
     "biggest-cities": {
       "name": "Maior cidade",
-      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "description": "Lista das 40 maiores cidades do mundo: PARIS, KOBE, OSAKA, SEOUL, HOUSTON, BARCELONA, FILADÉLFIA, SANTIAGO, LAGOS, DALLAS, NOVA IORQUE, ISTANBUL, TÓQUIO, FUKUOKA, LONDRES, KUALA LAMPUR, LIMA, CIDADE DE HO CHI MINH, MANILA, GUADALAJARA, MADRI, NAGOYA, SINGAPURA, JOHANESBURGO, BELO HORIZONTE, TORONTO, CIDADE DO MÉXICO, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SÃO PAULO, CHICAGO,…"
     },
     "small-powerful": {
       "name": "Simples, mas poderoso",
@@ -17,8 +17,8 @@
       "description": "Área de densa habitação humana. Derivado de dados de satélite 2002-2003."
     },
     "palestine": {
-      "name": "Palestine 🇵🇸",
-      "description": "Map for the peace and the liberty. 🕊️"
+      "name": "Palestina 🇵🇸",
+      "description": "Mapas pela paz e a liberdade. 🕊️"
     },
     "europe": {
       "name": "Europa",
@@ -46,60 +46,60 @@
     },
     "inferno": {
       "name": "Inferno",
-      "description": "2 complex cities 😵 : Santa Cruz de la Sierre (Bolivia) & Touba (Senegal)"
+      "description": "2 cidades complexas 😵 : Santa Cruz de la Sierra (Bolívia) & Touba (Senegal)"
     },
     "french-stations": {
-      "name": "French stations 🇫🇷",
-      "description": "The list of French passenger stations"
+      "name": "Estações francesas 🇫🇷",
+      "description": "Lista de estações de trem francesas"
     },
     "german-stations": {
-      "name": "German stations 🇩🇪",
-      "description": "German train stations."
+      "name": "Estações alemãs 🇩🇪",
+      "description": "Lista de estações de trem alemãs."
     },
     "german-level-crossings": {
-      "name": "German Level Crossings 🇩🇪",
-      "description": "German Level Crossings"
+      "name": "Passagens de nível alemãs 🇩🇪",
+      "description": "Passagens de nível alemãs"
     },
     "big-airports": {
-      "name": "Big airports ✈️",
-      "description": "This map contains the largest airports (> 600) on the world."
+      "name": "Grandes aeroportos ✈️",
+      "description": "Este mapa contém os maiores aeroportos (>600) do mundo."
     },
     "german-football-stadiums": {
-      "name": "German football stadiums ⚽",
-      "description": "German football stadiums of clubs in the first (Bundesliga) to fourth (Regionalliga) leagues"
+      "name": "Estádios de futebol alemães ⚽",
+      "description": "Estádios de futebol alemães de clubes da primeira (Bundesliga) até a quarta (Regionalliga) liga"
     },
     "nordic-vibes": {
-      "name": "Nordic vibes",
-      "description": "Walk in the Nordic countries (Finland, Sweden, Denmark, Norway, Faroe Islands, Iceland)"
+      "name": "Vibe nórdica",
+      "description": "Caminhe pelos países nórdicos (Finlândia, Suécia, Dinamarca, Noruega, Ilhas Faroe, Islândia)"
     }
   },
   "areas": {
     "continent": {
-      "name": "Continent",
+      "name": "Continente",
       "description": ""
     },
     "france-region": {
-      "name": "France Region",
+      "name": "Região Francesa",
       "description": ""
     },
     "france-county": {
-      "name": "France County",
+      "name": "Condado Francês",
       "description": ""
     },
     "usa-state": {
-      "name": "US States",
+      "name": "Estados Americanos",
       "description": ""
     },
     "tunisia-gouvenorate": {
-      "name": "Tunisia governorate",
+      "name": "Governo Geral da Tunísia",
       "description": ""
     },
     "italy-region": {
-      "name": "Italy Region",
+      "name": "Região Italiana",
       "description": ""
     },
     "italy-county": {
-      "name": "Italy County",
+      "name": "Condado Italiano",
       "description": ""
     },
     "brazil-regio": {
@@ -107,23 +107,23 @@
       "description": ""
     },
     "mexico-state": {
-      "name": "Mexico States",
+      "name": "Estados Mexicanos",
       "description": ""
     },
     "nantes": {
-      "name": "District of Nantes, France",
+      "name": "Distrito de Nantes, França",
       "description": ""
     },
     "biggest-cities": {
-      "name": "Biggest City (areas)",
-      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "name": "Maiores Cidades (áreas)",
+      "description": "Lista das 40 maiores cidades do mundo: PARIS, KOBE, OSAKA, SEOUL, HOUSTON, BARCELONA, FILADÉLFIA, SANTIAGO, LAGOS, DALLAS, NOVA IORQUE, ISTANBUL, TÓQUIO, FUKUOKA, LONDRES, KUALA LAMPUR, LIMA, CIDADE DE HO CHI MINH, MANILA, GUADALAJARA, MADRI, NAGOYA, SINGAPURA, JOHANESBURGO, BELO HORIZONTE, TORONTO, CIDADE DO MÉXICO, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SÃO PAULO, CHICAGO,…"
     },
     "spain-autonomous-communities": {
-      "name": "Spain autonomous communities",
+      "name": "Comunidades autônomas da Espanha",
       "description": ""
     },
     "spain-provinces": {
-      "name": "Spain provinces",
+      "name": "Províncias Espanholas",
       "description": ""
     }
   }
