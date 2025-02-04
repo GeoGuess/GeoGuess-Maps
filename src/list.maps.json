@@ -133,7 +133,7 @@
 		"url": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/maps/aaw-5000.geojson"
 	},
 	"aaw-2500": {
-		"name": "An Arbitrary World LITE",
+		"name": "An Arbitrary World Lite",
 		"description": "A lighter version of An Arbitrary World. Uses the same algorithms as the GeoGuessr community map \"An Arbitrary World.\"",
 		"author": "Nathan",
 		"imageUrl": "https://i.imgur.com/Jmy4Yi2.jpeg",

@@ -77,7 +77,7 @@
       "description": "A computer generated map with 5k widely-distributed locations of official vehicle coverage. Uses the same algorithms as the GeoGuessr community map \"An Arbitrary World.\""
     },
     "aaw-2500": {
-      "name": "An Arbitrary World LITE",
+      "name": "An Arbitrary World Lite",
       "description": "A lighter version of An Arbitrary World. Uses the same algorithms as the GeoGuessr community map \"An Arbitrary World.\""
     }
   },
