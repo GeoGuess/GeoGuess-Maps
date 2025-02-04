@@ -124,5 +124,19 @@
         "author": "STOP WAR",
         "imageUrl": "https://plus.unsplash.com/premium_photo-1674657843205-0e0106be5407?auto=format&fit=crop&w=500&h=230&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "url": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/maps/palestine.geojson"
-    }
+    },
+	"aaw-5000": {
+		"name": "An Arbitrary World",
+		"description": "A computer generated map with 5k widely-distributed locations of official vehicle coverage. Uses the same algorithms as the GeoGuessr community map \"An Arbitrary World.\"",
+		"author": "Nathan",
+		"imageUrl": "https://images.unsplash.com/photo-1619469399933-05d6e31688d4?auto=format&fit=crop&w=500&h=230&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"url": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/maps/aaw-5000.geojson"
+	},
+	"aaw-2500": {
+		"name": "An Arbitrary World LITE",
+		"description": "A lighter version of An Arbitrary World. Uses the same algorithms as the GeoGuessr community map \"An Arbitrary World.\"",
+		"author": "Nathan",
+		"imageUrl": "https://images.unsplash.com/photo-1619469399933-05d6e31688d4?auto=format&fit=crop&w=500&h=230&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"url": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/maps/aaw-2500.geojson"
+	}
 }
