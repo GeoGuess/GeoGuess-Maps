@@ -16,10 +16,6 @@
       "name": "العالم الحضري",
       "description": "المساحة السكنية البشرية الكثيفة - مستمدة من بيانات الساتل MODIS للفترة 2002-2003."
     },
-    "palestine": {
-      "name": "Palestine 🇵🇸",
-      "description": "Map for the peace and the liberty. 🕊️"
-    },
     "europe": {
       "name": "أوروبا",
       "description": "أوروبا بدون روسيا"
@@ -71,6 +67,18 @@
     "nordic-vibes": {
       "name": "Nordic vibes",
       "description": "المشي في بلدان الشمال الأوروبي (فنلندا والسويد والدانمرك والنرويج وجزر فارو وآيسلندا)"
+    },
+    "palestine": {
+      "name": "Palestine 🇵🇸",
+      "description": "Map for the peace and the liberty. 🕊️"
+    },
+    "aaw-5000": {
+      "name": "An Arbitrary World",
+      "description": "A computer generated map with 5k widely-distributed locations of official vehicle coverage. Uses the same algorithms as the GeoGuessr community map \"An Arbitrary World.\""
+    },
+    "aaw-2500": {
+      "name": "An Arbitrary World Lite",
+      "description": "A lighter version of An Arbitrary World. Uses the same algorithms as the GeoGuessr community map \"An Arbitrary World.\""
     }
   },
   "areas": {
