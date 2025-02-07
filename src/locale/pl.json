@@ -16,10 +16,6 @@
       "name": "Miejski Świat",
       "description": "Obszar gęsto zaludnionych siedlisk ludzkich. Dane satelitarne MODIS z lat 2002–2003."
     },
-    "palestine": {
-      "name": "Palestine 🇵🇸",
-      "description": "Map for the peace and the liberty. 🕊️"
-    },
     "europe": {
       "name": "Europa",
       "description": "Europa bez Rosji"
@@ -71,6 +67,18 @@
     "nordic-vibes": {
       "name": "Nordycki vibe",
       "description": "Spacer w Krajach nordyckich (Finlandia, Szwecja, Dania, Norwegia, Wyspy Owcze, Islandia)"
+    },
+    "palestine": {
+      "name": "Palestine 🇵🇸",
+      "description": "Map for the peace and the liberty. 🕊️"
+    },
+    "aaw-5000": {
+      "name": "An Arbitrary World",
+      "description": "A computer generated map with 5k widely-distributed locations of official vehicle coverage. Uses the same algorithms as the GeoGuessr community map \"An Arbitrary World.\""
+    },
+    "aaw-2500": {
+      "name": "An Arbitrary World Lite",
+      "description": "A lighter version of An Arbitrary World. Uses the same algorithms as the GeoGuessr community map \"An Arbitrary World.\""
     }
   },
   "areas": {
