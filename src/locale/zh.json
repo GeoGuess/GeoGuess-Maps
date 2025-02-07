@@ -16,10 +16,6 @@
       "name": "城市世界",
       "description": "人类居住密度高的地区。来自2002-2003年MODIS卫星数据。"
     },
-    "palestine": {
-      "name": "巴勒斯坦",
-      "description": "和平与自由的地图 🕊️"
-    },
     "europe": {
       "name": "欧洲",
       "description": "欧洲（无俄罗斯）"
@@ -71,6 +67,18 @@
     "nordic-vibes": {
       "name": "北欧风",
       "description": "在北欧国家 (芬兰、瑞典、丹麦、挪威、法罗群岛和冰岛) 漫步"
+    },
+    "palestine": {
+      "name": "巴勒斯坦",
+      "description": "和平与自由的地图 🕊️"
+    },
+    "aaw-5000": {
+      "name": "An Arbitrary World",
+      "description": "A computer generated map with 5k widely-distributed locations of official vehicle coverage. Uses the same algorithms as the GeoGuessr community map \"An Arbitrary World.\""
+    },
+    "aaw-2500": {
+      "name": "An Arbitrary World Lite",
+      "description": "A lighter version of An Arbitrary World. Uses the same algorithms as the GeoGuessr community map \"An Arbitrary World.\""
     }
   },
   "areas": {

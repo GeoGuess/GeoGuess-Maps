@@ -16,10 +16,6 @@
       "name": "Dünya Şehirleri",
       "description": "Yoğun insan yerleşim alanı. 2002-2003 MODIS uydu verilerinden türetilmiştir."
     },
-    "palestine": {
-      "name": "Palestine 🇵🇸",
-      "description": "Map for the peace and the liberty. 🕊️"
-    },
     "europe": {
       "name": "Avrupa",
       "description": "Avrupa (Rusya Hariç)"
@@ -71,6 +67,18 @@
     "nordic-vibes": {
       "name": "İskandinav esintileri",
       "description": "İskandinav ülkelerinde yürüyüş yapın (Finlandiya, İsveç, Danimarka, Norveç, Faroe Adaları, İzlanda)"
+    },
+    "palestine": {
+      "name": "Palestine 🇵🇸",
+      "description": "Map for the peace and the liberty. 🕊️"
+    },
+    "aaw-5000": {
+      "name": "An Arbitrary World",
+      "description": "A computer generated map with 5k widely-distributed locations of official vehicle coverage. Uses the same algorithms as the GeoGuessr community map \"An Arbitrary World.\""
+    },
+    "aaw-2500": {
+      "name": "An Arbitrary World Lite",
+      "description": "A lighter version of An Arbitrary World. Uses the same algorithms as the GeoGuessr community map \"An Arbitrary World.\""
     }
   },
   "areas": {

@@ -16,10 +16,6 @@
       "name": "Mundo urbano",
       "description": "Área de densa habitação humana. Derivado de dados de satélite 2002-2003."
     },
-    "palestine": {
-      "name": "Palestina 🇵🇸",
-      "description": "Mapas pela paz e a liberdade. 🕊️"
-    },
     "europe": {
       "name": "Europa",
       "description": "Europa sem Rússia"
@@ -71,6 +67,18 @@
     "nordic-vibes": {
       "name": "Vibe nórdica",
       "description": "Caminhe pelos países nórdicos (Finlândia, Suécia, Dinamarca, Noruega, Ilhas Faroe, Islândia)"
+    },
+    "palestine": {
+      "name": "Palestina 🇵🇸",
+      "description": "Mapas pela paz e a liberdade. 🕊️"
+    },
+    "aaw-5000": {
+      "name": "An Arbitrary World",
+      "description": "A computer generated map with 5k widely-distributed locations of official vehicle coverage. Uses the same algorithms as the GeoGuessr community map \"An Arbitrary World.\""
+    },
+    "aaw-2500": {
+      "name": "An Arbitrary World Lite",
+      "description": "A lighter version of An Arbitrary World. Uses the same algorithms as the GeoGuessr community map \"An Arbitrary World.\""
     }
   },
   "areas": {
