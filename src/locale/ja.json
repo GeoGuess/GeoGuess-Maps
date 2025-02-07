@@ -16,10 +16,6 @@
       "name": "都市の世界",
       "description": "密度の高い人間の居住エリア. から派生しました 2002-2003 MODIS衛星データ."
     },
-    "palestine": {
-      "name": "Palestine 🇵🇸",
-      "description": "Map for the peace and the liberty. 🕊️"
-    },
     "europe": {
       "name": "ヨーロッパ",
       "description": "ロシアのいないヨーロッパ"
@@ -71,6 +67,18 @@
     "nordic-vibes": {
       "name": "Nordic vibes",
       "description": "北欧諸国を歩く（フィンランド、スウェーデン、デンマーク、ノルウェー、フェロー諸島、アイスランド）"
+    },
+    "palestine": {
+      "name": "Palestine 🇵🇸",
+      "description": "Map for the peace and the liberty. 🕊️"
+    },
+    "aaw-5000": {
+      "name": "An Arbitrary World",
+      "description": "A computer generated map with 5k widely-distributed locations of official vehicle coverage. Uses the same algorithms as the GeoGuessr community map \"An Arbitrary World.\""
+    },
+    "aaw-2500": {
+      "name": "An Arbitrary World Lite",
+      "description": "A lighter version of An Arbitrary World. Uses the same algorithms as the GeoGuessr community map \"An Arbitrary World.\""
     }
   },
   "areas": {
