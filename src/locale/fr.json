@@ -70,15 +70,15 @@
     },
     "palestine": {
       "name": "Palestine 🇵🇸",
-      "description": "Map for the peace and the liberty. 🕊️"
+      "description": "Carte pour la paix et la liberté. 🕊️"
     },
     "aaw-5000": {
-      "name": "An Arbitrary World",
-      "description": "A computer generated map with 5k widely-distributed locations of official vehicle coverage. Uses the same algorithms as the GeoGuessr community map \"An Arbitrary World.\""
+      "name": "Un monde arbitraire",
+      "description": "Une carte générée par ordinateur avec 5k emplacements largement distribués de la couverture officielle. Utilise les mêmes algorithmes que la carte communautaire GeoGuessr \"An Arbitrary World.\""
     },
     "aaw-2500": {
-      "name": "An Arbitrary World Lite",
-      "description": "A lighter version of An Arbitrary World. Uses the same algorithms as the GeoGuessr community map \"An Arbitrary World.\""
+      "name": "Un monde arbitraire allégé",
+      "description": "Une version plus légère d'un monde arbitraire. Utilise les mêmes algorithmes que la carte de la communauté GeoGuessr \"An Arbitrary World.\""
     }
   },
   "areas": {
