@@ -69,16 +69,16 @@
       "description": "Spaziergang in den nordischen Ländern (Finnland, Schweden, Dänemark, Norwegen, Färöer Inseln, Island)"
     },
     "palestine": {
-      "name": "Palestine 🇵🇸",
-      "description": "Map for the peace and the liberty. 🕊️"
+      "name": "Palästina 🇵🇸",
+      "description": "Karte für Frieden und Freiheit. 🕊️"
     },
     "aaw-5000": {
-      "name": "An Arbitrary World",
-      "description": "A computer generated map with 5k widely-distributed locations of official vehicle coverage. Uses the same algorithms as the GeoGuessr community map \"An Arbitrary World.\""
+      "name": "Eine willkürliche Welt",
+      "description": "Eine computergenerierte Karte mit 5k weit verteilten Standorten der offiziellen Fahrzeugabdeckung. Verwendet die gleichen Algorithmen wie die GeoGuessr Community-Karte \"An Arbitrary World.\""
     },
     "aaw-2500": {
-      "name": "An Arbitrary World Lite",
-      "description": "A lighter version of An Arbitrary World. Uses the same algorithms as the GeoGuessr community map \"An Arbitrary World.\""
+      "name": "Eine willkürliche Welt Lite",
+      "description": "Eine leichtere Version der willkürlichen Welt. Verwendet die gleichen Algorithmen wie die GeoGuessr Community Map \"An Arbitrary World.\""
     }
   },
   "areas": {
