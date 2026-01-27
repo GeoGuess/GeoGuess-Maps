@@ -291,9 +291,9 @@
         "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
         "data": {
             "bbox": [-8.649996, 49.882463, 1.763706, 60.860699],
-            "urlArea": "https://raw.githubusercontent.com/martynafford/natural-earth-geojson/master/50m/cultural/ne_50m_admin_0_map_subunits.json",
+            "urlArea": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/ukctry2025.geojson",
             "type": "nominatim",
-            "pathKey": "NAME",
+            "pathKey": "areanm",
             "nominatimResultPath": "address.state",
             "nominatimQueryParams": {
                 "zoom": "5",
