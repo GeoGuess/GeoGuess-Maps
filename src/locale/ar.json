@@ -84,55 +84,71 @@
   "areas": {
     "continent": {
       "name": "القارة",
-      "description": ""
+      "description": "Guess which continent you are on: Africa, Asia, Europe, North America, South America, or Oceania"
     },
     "france-region": {
       "name": "منطقة فرنسا",
-      "description": ""
+      "description": "Identify the region of France where you are located"
     },
     "france-county": {
       "name": "مقاطعة فرنسا",
-      "description": ""
+      "description": "Identify the French department (county) where you are located"
     },
     "usa-state": {
       "name": "الولايات المتحدة الأمريكية",
-      "description": ""
+      "description": "Identify which state of the United States you are in"
     },
     "tunisia-gouvenorate": {
       "name": "محافظة تونس",
-      "description": ""
+      "description": "Identify the governorate (administrative division) of Tunisia where you are located"
     },
     "italy-region": {
       "name": "منطقة إيطاليا",
-      "description": ""
+      "description": "Identify the region of Italy where you are located"
     },
     "italy-county": {
       "name": "مقاطعة إيطاليا",
-      "description": ""
+      "description": "Identify the province (county) of Italy where you are located"
     },
     "brazil-regio": {
       "name": "الدول البرازيلية",
-      "description": ""
+      "description": "Identify which state of Brazil you are in"
     },
     "mexico-state": {
       "name": "الدول المكسيكية",
-      "description": ""
+      "description": "Identify which state of Mexico you are in"
     },
     "nantes": {
       "name": "مقاطعة نانت، فرنسا",
-      "description": ""
+      "description": "Identify the district within Nantes Métropole, France"
     },
     "biggest-cities": {
       "name": "أكبر مدينة (مناطق)",
-      "description": "List of 40 biggest cities of the world: PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "description": "Identify which of the 40 biggest cities in the world you are in: Paris, Kobe-Osaka, Seoul, Houston, Barcelona, Philadelphia, Santiago, Lagos, Dallas, New York, Istanbul, Tokyo, Fukuoka, London, Kuala Lumpur, Lima, Ho Chi Minh City, Manila, Guadalajara, Madrid, Nagoya, Singapore, Johannesburg, Belo Horizonte, Toronto, Mexico City, Miami, Atlanta, Rio de Janeiro, Buenos Aires, São Paulo, Chicago, among others"
     },
     "spain-autonomous-communities": {
       "name": "المجتمعات الإسبانية المتمتعة بالحكم الذاتي",
-      "description": ""
+      "description": "Identify the autonomous community of Spain where you are located"
     },
     "spain-provinces": {
       "name": "المقاطعات الإسبانية",
-      "description": ""
+      "description": "Identify the province of Spain where you are located"
+    },
+    "canada-provinces": {
+      "name": "Canada Provinces and Territories",
+      "description": "Identify which province or territory of Canada you are in"
+    },
+    "germany-states": {
+      "name": "German States",
+      "description": "Identify which state (Bundesland) of Germany you are in"
+    },
+    "australia-states": {
+      "name": "Australia States and Territories",
+      "description": "Identify which state or territory of Australia you are in"
+    },
+    "uk-countries": {
+      "name": "United Kingdom Countries",
+      "description": "Identify which constituent country of the United Kingdom you are in: England, Scotland, Wales, or Northern Ireland"
     }
   }
 }

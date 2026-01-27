@@ -84,55 +84,71 @@
   "areas": {
     "continent": {
       "name": "Континент",
-      "description": ""
+      "description": "Guess which continent you are on: Africa, Asia, Europe, North America, South America, or Oceania"
     },
     "france-region": {
       "name": "Французский регион",
-      "description": ""
+      "description": "Identify the region of France where you are located"
     },
     "france-county": {
       "name": "Французский округ",
-      "description": ""
+      "description": "Identify the French department (county) where you are located"
     },
     "usa-state": {
       "name": "Штаты США",
-      "description": ""
+      "description": "Identify which state of the United States you are in"
     },
     "tunisia-gouvenorate": {
       "name": "Тунисская провинция",
-      "description": ""
+      "description": "Identify the governorate (administrative division) of Tunisia where you are located"
     },
     "italy-region": {
       "name": "Итальянский регион",
-      "description": ""
+      "description": "Identify the region of Italy where you are located"
     },
     "italy-county": {
       "name": "Италия",
-      "description": ""
+      "description": "Identify the province (county) of Italy where you are located"
     },
     "brazil-regio": {
       "name": "Штаты Бразилии",
-      "description": ""
+      "description": "Identify which state of Brazil you are in"
     },
     "mexico-state": {
       "name": "Штаты Мексики",
-      "description": ""
+      "description": "Identify which state of Mexico you are in"
     },
     "nantes": {
       "name": "Район Нант, Франция",
-      "description": ""
+      "description": "Identify the district within Nantes Métropole, France"
     },
     "biggest-cities": {
       "name": "Крупнейший город (районы)",
-      "description": "40 крупнейших городов мира: ПАРИЖ, ОСАКА, СЕУЛ, ХЬЮСТОН, БАРСЕЛОНА, ФИЛАДЕЛЬФИЯ, САНТЬЯГО, ЛАГОС, ДАЛЛАС, НЬЮ-ЙОРК, СТАМБУЛ, ТОКИО, ФУКУОКА, ЛОНДОН, КУАЛА-ЛУМПУР, ЛИМА, ХОШИМИН, МАНИЛА, ГВАДАЛАХАРА, МАДРИД, НАГОЯ, СИНГАПУР, ИОХАННЕСБУРГ, БЕЛУ-ОРИЗОНТИ, ТОРОНТО, МЕХИКО, МАЙАМИ, АТЛАНТА, РИО-ДЕ-ЖАНЕЙРО, БУЭНОС-АЙРЕС, САН-ПАУЛУ, ЧИКАГО,…"
+      "description": "Identify which of the 40 biggest cities in the world you are in: Paris, Kobe-Osaka, Seoul, Houston, Barcelona, Philadelphia, Santiago, Lagos, Dallas, New York, Istanbul, Tokyo, Fukuoka, London, Kuala Lumpur, Lima, Ho Chi Minh City, Manila, Guadalajara, Madrid, Nagoya, Singapore, Johannesburg, Belo Horizonte, Toronto, Mexico City, Miami, Atlanta, Rio de Janeiro, Buenos Aires, São Paulo, Chicago, among others"
     },
     "spain-autonomous-communities": {
       "name": "Испанские автономные сообщества",
-      "description": ""
+      "description": "Identify the autonomous community of Spain where you are located"
     },
     "spain-provinces": {
       "name": "Испанские провинции",
-      "description": ""
+      "description": "Identify the province of Spain where you are located"
+    },
+    "canada-provinces": {
+      "name": "Canada Provinces and Territories",
+      "description": "Identify which province or territory of Canada you are in"
+    },
+    "germany-states": {
+      "name": "German States",
+      "description": "Identify which state (Bundesland) of Germany you are in"
+    },
+    "australia-states": {
+      "name": "Australia States and Territories",
+      "description": "Identify which state or territory of Australia you are in"
+    },
+    "uk-countries": {
+      "name": "United Kingdom Countries",
+      "description": "Identify which constituent country of the United Kingdom you are in: England, Scotland, Wales, or Northern Ireland"
     }
   }
 }

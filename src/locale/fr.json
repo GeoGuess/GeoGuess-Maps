@@ -84,55 +84,71 @@
   "areas": {
     "continent": {
       "name": "Continent",
-      "description": ""
+      "description": "Devinez le continent sur lequel vous êtes : Afrique, Asie, Europe, Amérique du Nord, Amérique du Sud ou Océanie"
     },
     "france-region": {
       "name": "France Régions",
-      "description": ""
+      "description": "Identifiez la région de France où vous vous trouvez"
     },
     "france-county": {
       "name": "France Départements",
-      "description": ""
+      "description": "Identifiez le département français où vous vous trouvez"
     },
     "usa-state": {
       "name": "États des États-Unis",
-      "description": ""
+      "description": "Identifiez l'État dans lequel vous êtes aux États-Unis"
     },
     "tunisia-gouvenorate": {
       "name": "Tunisie Gouvernorat",
-      "description": ""
+      "description": "Identifiez le gouvernorat (division administrative) de la Tunisie où vous vous trouvez"
     },
     "italy-region": {
       "name": "Région de l'Italie",
-      "description": ""
+      "description": "Identifiez la région d'Italie où vous vous trouvez"
     },
     "italy-county": {
       "name": "Comté de l'Italie",
-      "description": ""
+      "description": "Identifiez la province d'Italie où vous vous trouvez"
     },
     "brazil-regio": {
       "name": "États brésiliens",
-      "description": ""
+      "description": "Identifiez dans quel état du Brésil vous êtes dans"
     },
     "mexico-state": {
       "name": "États du Mexique",
-      "description": ""
+      "description": "Identifiez l'état dans lequel vous vous trouvez au Mexique"
     },
     "nantes": {
       "name": "Quartiers de Nantes Métropole France",
-      "description": ""
+      "description": "Identifier le quartier de Nantes Métropole, France"
     },
     "biggest-cities": {
       "name": "Plus grande ville du monde (zones)",
-      "description": "Une liste de plus de 40 villes : PARIS, KOBE OSAKA, SEOUL, HOUSTON, BARCELONA, PHILADELPHIA, SANTIAGO, LAGOS, DALLAS, NEW YORK, ISTANBUL, TOKYO, FUKUOKA, LONDON, KUALA LUMPUR, LIMA, HO CHI MINH CITY, MANILA, GUADALAJARA, MADRID, NAGOYA, SINGAPORE, JOHANNESBURG, BELO HORIZONTE, TORONTO, MEXICO CITY, MIAMI, ATLANTA, RIO DE JANEIRO, BUENOS AIRES, SAO PAULO, CHICAGO,…"
+      "description": "Identifiez les 40 plus grandes villes du monde : Paris, Kobe-Osaka, Séoul, Houston, Barcelone, Philadelphie, Santiago, Lagos, Dallas, New York, Istanbul, Tokyo, Fukuoka, Londres, Kuala Lumpur, Lima, Ho Chi Minh City, Manille, Guadalajara, Madrid, Nagoya, Singapour, Johannesburg, Belo Horizonte, Toronto, Mexico, Miami, Atlanta, Rio de Janeiro, Buenos Aires, Sa<unk> o Paulo, Chicago, entre autres"
     },
     "spain-autonomous-communities": {
       "name": "Communautés autonomes d'Espagne",
-      "description": ""
+      "description": "Identifiez la communauté autonome d'Espagne où vous vous trouvez"
     },
     "spain-provinces": {
       "name": "Provinces d'Espagne",
-      "description": ""
+      "description": "Identifiez la province d'Espagne où vous vous trouvez"
+    },
+    "canada-provinces": {
+      "name": "Provinces et territoires du Canada",
+      "description": "Identifiez dans quelle province ou territoire du Canada vous êtes"
+    },
+    "germany-states": {
+      "name": "États allemands",
+      "description": "Identifiez l'État dans lequel vous êtes en Allemagne (Bundesland)"
+    },
+    "australia-states": {
+      "name": "États et territoires de l'Australie",
+      "description": "Identifiez l'État ou le territoire de l'Australie dans lequel vous êtes"
+    },
+    "uk-countries": {
+      "name": "Nation du Royaume-Uni",
+      "description": "Identifiez la nation du Royaume-Uni dans lequel vous êtes : Angleterre, Écosse, Pays de Galles ou Irlande du Nord"
     }
   }
 }
