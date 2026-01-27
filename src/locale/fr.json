@@ -84,71 +84,71 @@
   "areas": {
     "continent": {
       "name": "Continent",
-      "description": "Guess which continent you are on: Africa, Asia, Europe, North America, South America, or Oceania"
+      "description": "Devinez le continent sur lequel vous êtes : Afrique, Asie, Europe, Amérique du Nord, Amérique du Sud ou Océanie"
     },
     "france-region": {
       "name": "France Régions",
-      "description": "Identify the region of France where you are located"
+      "description": "Identifiez la région de France où vous vous trouvez"
     },
     "france-county": {
       "name": "France Départements",
-      "description": "Identify the French department (county) where you are located"
+      "description": "Identifiez le département français où vous vous trouvez"
     },
     "usa-state": {
       "name": "États des États-Unis",
-      "description": "Identify which state of the United States you are in"
+      "description": "Identifiez l'État dans lequel vous êtes aux États-Unis"
     },
     "tunisia-gouvenorate": {
       "name": "Tunisie Gouvernorat",
-      "description": "Identify the governorate (administrative division) of Tunisia where you are located"
+      "description": "Identifiez le gouvernorat (division administrative) de la Tunisie où vous vous trouvez"
     },
     "italy-region": {
       "name": "Région de l'Italie",
-      "description": "Identify the region of Italy where you are located"
+      "description": "Identifiez la région d'Italie où vous vous trouvez"
     },
     "italy-county": {
       "name": "Comté de l'Italie",
-      "description": "Identify the province (county) of Italy where you are located"
+      "description": "Identifiez la province d'Italie où vous vous trouvez"
     },
     "brazil-regio": {
       "name": "États brésiliens",
-      "description": "Identify which state of Brazil you are in"
+      "description": "Identifiez dans quel état du Brésil vous êtes dans"
     },
     "mexico-state": {
       "name": "États du Mexique",
-      "description": "Identify which state of Mexico you are in"
+      "description": "Identifiez l'état dans lequel vous vous trouvez au Mexique"
     },
     "nantes": {
       "name": "Quartiers de Nantes Métropole France",
-      "description": "Identify the district within Nantes Métropole, France"
+      "description": "Identifier le quartier de Nantes Métropole, France"
     },
     "biggest-cities": {
       "name": "Plus grande ville du monde (zones)",
-      "description": "Identify which of the 40 biggest cities in the world you are in: Paris, Kobe-Osaka, Seoul, Houston, Barcelona, Philadelphia, Santiago, Lagos, Dallas, New York, Istanbul, Tokyo, Fukuoka, London, Kuala Lumpur, Lima, Ho Chi Minh City, Manila, Guadalajara, Madrid, Nagoya, Singapore, Johannesburg, Belo Horizonte, Toronto, Mexico City, Miami, Atlanta, Rio de Janeiro, Buenos Aires, São Paulo, Chicago, among others"
+      "description": "Identifiez les 40 plus grandes villes du monde : Paris, Kobe-Osaka, Séoul, Houston, Barcelone, Philadelphie, Santiago, Lagos, Dallas, New York, Istanbul, Tokyo, Fukuoka, Londres, Kuala Lumpur, Lima, Ho Chi Minh City, Manille, Guadalajara, Madrid, Nagoya, Singapour, Johannesburg, Belo Horizonte, Toronto, Mexico, Miami, Atlanta, Rio de Janeiro, Buenos Aires, Sa<unk> o Paulo, Chicago, entre autres"
     },
     "spain-autonomous-communities": {
       "name": "Communautés autonomes d'Espagne",
-      "description": "Identify the autonomous community of Spain where you are located"
+      "description": "Identifiez la communauté autonome d'Espagne où vous vous trouvez"
     },
     "spain-provinces": {
       "name": "Provinces d'Espagne",
-      "description": "Identify the province of Spain where you are located"
+      "description": "Identifiez la province d'Espagne où vous vous trouvez"
     },
     "canada-provinces": {
-      "name": "Canada Provinces and Territories",
-      "description": "Identify which province or territory of Canada you are in"
+      "name": "Provinces et territoires du Canada",
+      "description": "Identifiez dans quelle province ou territoire du Canada vous êtes"
     },
     "germany-states": {
-      "name": "German States",
-      "description": "Identify which state (Bundesland) of Germany you are in"
+      "name": "États allemands",
+      "description": "Identifiez l'État dans lequel vous êtes en Allemagne (Bundesland)"
     },
     "australia-states": {
-      "name": "Australia States and Territories",
-      "description": "Identify which state or territory of Australia you are in"
+      "name": "États et territoires de l'Australie",
+      "description": "Identifiez l'État ou le territoire de l'Australie dans lequel vous êtes"
     },
     "uk-countries": {
-      "name": "United Kingdom Countries",
-      "description": "Identify which constituent country of the United Kingdom you are in: England, Scotland, Wales, or Northern Ireland"
+      "name": "Nation du Royaume-Uni",
+      "description": "Identifiez la nation du Royaume-Uni dans lequel vous êtes : Angleterre, Écosse, Pays de Galles ou Irlande du Nord"
     }
   }
 }
