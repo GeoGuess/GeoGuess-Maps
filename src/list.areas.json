@@ -236,7 +236,7 @@
         "author": "GeoGuess Team",
         "imageUrl": "https://images.unsplash.com/photo-1517935706615-2717063c2225?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
         "data": {
-            "bbox": [-141.0, 41.7, -52.6, 83.1],
+            "bbox": [-141, 41.7, -52.6, 83.1],
             "urlArea": "https://raw.githubusercontent.com/codeforamerica/click_that_hood/master/public/data/canada.geojson",
             "type": "nominatim",
             "pathKey": "name",
@@ -249,7 +249,7 @@
         }
     },
     "germany-states": {
-        "name": "Germany States",
+        "name": "German States",
         "description": "",
         "author": "GeoGuess Team",
         "imageUrl": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
@@ -272,7 +272,7 @@
         "author": "GeoGuess Team",
         "imageUrl": "https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
         "data": {
-            "bbox": [112.9, -43.6, 159.1, -10.0],
+            "bbox": [112.9, -43.6, 159.1, -10],
             "urlArea": "https://raw.githubusercontent.com/tonywr71/GeoJson-Data/master/australian-states.json",
             "type": "nominatim",
             "pathKey": "STATE_NAME",
