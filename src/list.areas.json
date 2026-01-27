@@ -229,5 +229,77 @@
             "type": "polygon",
             "pathKey": "provincia"
         }
+    },
+    "canada-provinces": {
+        "name": "Canada Provinces and Territories",
+        "description": "",
+        "author": "GeoGuess Team",
+        "imageUrl": "https://images.unsplash.com/photo-1517935706615-2717063c2225?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
+        "data": {
+            "bbox": [-141.0, 41.7, -52.6, 83.1],
+            "urlArea": "https://raw.githubusercontent.com/codeforamerica/click_that_hood/master/public/data/canada.geojson",
+            "type": "nominatim",
+            "pathKey": "name",
+            "nominatimResultPath": "address.state",
+            "nominatimQueryParams": {
+                "zoom": "5",
+                "addressdetails": "1",
+                "accept-language": "en"
+            }
+        }
+    },
+    "germany-states": {
+        "name": "Germany States",
+        "description": "",
+        "author": "GeoGuess Team",
+        "imageUrl": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
+        "data": {
+            "bbox": [5.866944, 55.0846, 15.043611, 47.270111],
+            "urlArea": "https://raw.githubusercontent.com/isellsoap/deutschlandGeoJSON/master/2_bundeslaender/4_niedrig.geo.json",
+            "type": "nominatim",
+            "pathKey": "name",
+            "nominatimResultPath": "address.state",
+            "nominatimQueryParams": {
+                "zoom": "5",
+                "addressdetails": "1",
+                "accept-language": "de"
+            }
+        }
+    },
+    "australia-states": {
+        "name": "Australia States and Territories",
+        "description": "",
+        "author": "GeoGuess Team",
+        "imageUrl": "https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
+        "data": {
+            "bbox": [112.9, -43.6, 159.1, -10.0],
+            "urlArea": "https://raw.githubusercontent.com/tonywr71/GeoJson-Data/master/australian-states.json",
+            "type": "nominatim",
+            "pathKey": "STATE_NAME",
+            "nominatimResultPath": "address.state",
+            "nominatimQueryParams": {
+                "zoom": "5",
+                "addressdetails": "1",
+                "accept-language": "en"
+            }
+        }
+    },
+    "uk-countries": {
+        "name": "United Kingdom Countries",
+        "description": "",
+        "author": "GeoGuess Team",
+        "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
+        "data": {
+            "bbox": [-8.649996, 49.882463, 1.763706, 60.860699],
+            "urlArea": "https://raw.githubusercontent.com/martynafford/natural-earth-geojson/master/50m/cultural/ne_50m_admin_0_map_subunits.json",
+            "type": "nominatim",
+            "pathKey": "NAME",
+            "nominatimResultPath": "address.country",
+            "nominatimQueryParams": {
+                "zoom": "5",
+                "addressdetails": "1",
+                "accept-language": "en"
+            }
+        }
     }
 }

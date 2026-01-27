@@ -133,6 +133,22 @@
     "spain-provinces": {
       "name": "Spain provinces",
       "description": ""
+    },
+    "canada-provinces": {
+      "name": "Canada Provinces and Territories",
+      "description": ""
+    },
+    "germany-states": {
+      "name": "Germany States",
+      "description": ""
+    },
+    "australia-states": {
+      "name": "Australia States and Territories",
+      "description": ""
+    },
+    "uk-countries": {
+      "name": "United Kingdom Countries",
+      "description": ""
     }
   }
 }
