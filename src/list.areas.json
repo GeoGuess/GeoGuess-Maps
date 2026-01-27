@@ -194,7 +194,7 @@
     "biggest-cities": {
         "active": false,
         "name": "Biggest City (areas)",
-        "description": "Identify which of the 40 biggest cities in the world you are in: Paris, Kobe-Osaka, Seoul, Houston, Barcelona, Philadelphia, Santiago, Lagos, Dallas, New York, Istanbul, Tokyo, Fukuoka, London, Kuala Lumpur, Lima, Ho Chi Minh City, Manila, Guadalajara, Madrid, Nagoya, Singapore, Johannesburg, Belo Horizonte, Toronto, Mexico City, Miami, Atlanta, Rio de Janeiro, Buenos Aires, São Paulo, Chicago, and more",
+        "description": "Identify which of the 40 biggest cities in the world you are in: Paris, Kobe-Osaka, Seoul, Houston, Barcelona, Philadelphia, Santiago, Lagos, Dallas, New York, Istanbul, Tokyo, Fukuoka, London, Kuala Lumpur, Lima, Ho Chi Minh City, Manila, Guadalajara, Madrid, Nagoya, Singapore, Johannesburg, Belo Horizonte, Toronto, Mexico City, Miami, Atlanta, Rio de Janeiro, Buenos Aires, São Paulo, Chicago, among others",
         "author": "BilelJegham",
         "imageUrl": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjg3OTd9&auto=format&fit=crop&w=500&h=230",
         "data": {
