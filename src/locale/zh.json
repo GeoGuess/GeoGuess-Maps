@@ -84,55 +84,71 @@
   "areas": {
     "continent": {
       "name": "大洲",
-      "description": ""
+      "description": "Guess which continent you are on: Africa, Asia, Europe, North America, South America, or Oceania"
     },
     "france-region": {
       "name": "法国大区",
-      "description": ""
+      "description": "Identify the region of France where you are located"
     },
     "france-county": {
       "name": "法国省区",
-      "description": ""
+      "description": "Identify the French department (county) where you are located"
     },
     "usa-state": {
       "name": "美国州",
-      "description": ""
+      "description": "Identify which state of the United States you are in"
     },
     "tunisia-gouvenorate": {
       "name": "突尼斯省",
-      "description": ""
+      "description": "Identify the governorate (administrative division) of Tunisia where you are located"
     },
     "italy-region": {
       "name": "意大利大区",
-      "description": ""
+      "description": "Identify the region of Italy where you are located"
     },
     "italy-county": {
       "name": "意大利省",
-      "description": ""
+      "description": "Identify the province (county) of Italy where you are located"
     },
     "brazil-regio": {
       "name": "巴西州",
-      "description": ""
+      "description": "Identify which state of Brazil you are in"
     },
     "mexico-state": {
       "name": "墨西哥州",
-      "description": ""
+      "description": "Identify which state of Mexico you are in"
     },
     "nantes": {
       "name": "法国南特地区",
-      "description": ""
+      "description": "Identify the district within Nantes Métropole, France"
     },
     "biggest-cities": {
       "name": "大城市 (区域)",
-      "description": "世界上最大的40个城市清单：巴黎、大阪、首尔、休斯顿、巴塞罗那、费城、圣地亚哥、拉戈斯、达拉斯、纽约、伊斯坦布尔、东京、福冈、伦敦、吉隆坡、利马、胡志明市、马尼拉、瓜达拉哈拉、马德里、名古屋、新加坡、约翰内斯堡、贝洛奥里藏特、多伦多、墨西哥城、迈阿密、亚特兰大、里约热内卢、布宜诺斯艾利斯、圣保罗、芝加哥……"
+      "description": "Identify which of the 40 biggest cities in the world you are in: Paris, Kobe-Osaka, Seoul, Houston, Barcelona, Philadelphia, Santiago, Lagos, Dallas, New York, Istanbul, Tokyo, Fukuoka, London, Kuala Lumpur, Lima, Ho Chi Minh City, Manila, Guadalajara, Madrid, Nagoya, Singapore, Johannesburg, Belo Horizonte, Toronto, Mexico City, Miami, Atlanta, Rio de Janeiro, Buenos Aires, São Paulo, Chicago, among others"
     },
     "spain-autonomous-communities": {
       "name": "西班牙自治区",
-      "description": ""
+      "description": "Identify the autonomous community of Spain where you are located"
     },
     "spain-provinces": {
       "name": "西班牙省",
-      "description": ""
+      "description": "Identify the province of Spain where you are located"
+    },
+    "canada-provinces": {
+      "name": "Canada Provinces and Territories",
+      "description": "Identify which province or territory of Canada you are in"
+    },
+    "germany-states": {
+      "name": "German States",
+      "description": "Identify which state (Bundesland) of Germany you are in"
+    },
+    "australia-states": {
+      "name": "Australia States and Territories",
+      "description": "Identify which state or territory of Australia you are in"
+    },
+    "uk-countries": {
+      "name": "United Kingdom Countries",
+      "description": "Identify which constituent country of the United Kingdom you are in: England, Scotland, Wales, or Northern Ireland"
     }
   }
 }
