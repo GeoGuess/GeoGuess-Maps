@@ -1,4 +1,11 @@
 {
+  "name": "geoguess-maps",
+  "version": "1.0.0",
+  "description": "List of community maps for GeoGuess",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GeoGuess/GeoGuess-Maps.git"
+  },
   "author": "Bilel Jegham",
   "license": "MIT",
   "scripts": {

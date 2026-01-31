@@ -1,0 +1,18 @@
+# Development files
+.github/
+scripts/
+src/
+
+# Git files
+.git/
+.gitignore
+
+# Documentation
+CNAME
+crowdin.yml
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Keep only the built maps.json
