@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/github/license/GeoGuess/GeoGuess-Maps)](https://github.com/GeoGuess/GeoGuess-Maps/blob/master/LICENSE) 
 [![Discord](https://img.shields.io/discord/758443244387303435?color=7289DA&label=discord&logo=discord&logoColor=FFFFFF)](https://discord.gg/9GXm6RT)
 [![Crowdin](https://badges.crowdin.net/geoguess/localized.svg)](https://translate.geoguess.games/project/geoguess)
-[![jsDelivr](https://img.shields.io/jsdelivr/gh/hm/GeoGuess/GeoGuess-Maps?label=jsDelivr&color=orange)](https://cdn.jsdelivr.net/gh/GeoGuess/GeoGuess-Maps@latest/maps.json)
+[![jsDelivr](https://img.shields.io/jsdelivr/gh/hm/GeoGuess/GeoGuess-Maps?label=jsDelivr&color=orange)](https://cdn.jsdelivr.net/gh/GeoGuess/GeoGuess-Maps@main/maps.json)
 
 List of community map for [GeoGuess](https://github.com/GeoGuess/Geoguess).
 
@@ -13,10 +13,9 @@ List of community map for [GeoGuess](https://github.com/GeoGuess/Geoguess).
 
 The `maps.json` file is available via jsDelivr CDN for fast and reliable access:
 
-- **Latest version (recommended)**: `https://cdn.jsdelivr.net/gh/GeoGuess/GeoGuess-Maps@latest/maps.json`
-- **From main branch**: `https://cdn.jsdelivr.net/gh/GeoGuess/GeoGuess-Maps@main/maps.json`
+- **From main branch (latest)**: `https://cdn.jsdelivr.net/gh/GeoGuess/GeoGuess-Maps@main/maps.json`
 - **From gh-pages**: `https://cdn.jsdelivr.net/gh/GeoGuess/GeoGuess-Maps@gh-pages/maps.json`
-- **Specific version**: `https://cdn.jsdelivr.net/gh/GeoGuess/GeoGuess-Maps@{version}/maps.json`
+- **Specific version/tag** (e.g., v1.0.0): `https://cdn.jsdelivr.net/gh/GeoGuess/GeoGuess-Maps@v1.0.0/maps.json`
 
 The CDN automatically caches and serves the file with high performance worldwide.
 
